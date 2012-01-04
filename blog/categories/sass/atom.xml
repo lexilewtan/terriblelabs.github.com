@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Sass | Terrible Blog]]></title>
+  <link href="http://terriblelabs.github.com/blog/categories/sass/atom.xml" rel="self"/>
+  <link href="http://terriblelabs.github.com/"/>
+  <updated>2012-01-04T15:41:57-05:00</updated>
+  <id>http://terriblelabs.github.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Step Away from the Presentational Classes]]></title>
+    <link href="http://terriblelabs.github.com/blog/2012/01/04/step-away-from-the-presentational-classes/"/>
+    <updated>2012-01-04T15:37:00-05:00</updated>
+    <id>http://terriblelabs.github.com/blog/2012/01/04/step-away-from-the-presentational-classes</id>
+    <content type="html"><![CDATA[<p>This is a test.</p>
+
+<p><code>ruby
+x = 5
+puts x
+"Hello #{x}"
+</code></p>
+
+<p><code>css
+section#container {
+  @include border-radius(4px);
+  background: #fff;
+}
+</code></p>
+]]></content>
+  </entry>
+  
+</feed>
