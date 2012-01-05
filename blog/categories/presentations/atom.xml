@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Presentations | Terrible Blog]]></title>
+  <link href="http://terriblelabs.github.com/blog/categories/presentations/atom.xml" rel="self"/>
+  <link href="http://terriblelabs.github.com/"/>
+  <updated>2012-01-04T22:28:07-05:00</updated>
+  <id>http://terriblelabs.github.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Jeremy W on Test-Driven Development]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd/"/>
+    <updated>2011-09-14T00:00:00-04:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/29057895" width="400" height="300" frameborder="0"></iframe>
+
+
+
+
+<p>My talk from Boston RB last night on Test Driven Development. Check out the slides below.</p>
+
+
+
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/9244867" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>

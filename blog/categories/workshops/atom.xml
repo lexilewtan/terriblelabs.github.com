@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Workshops | Terrible Blog]]></title>
+  <link href="http://terriblelabs.github.com/blog/categories/workshops/atom.xml" rel="self"/>
+  <link href="http://terriblelabs.github.com/"/>
+  <updated>2012-01-04T22:28:07-05:00</updated>
+  <id>http://terriblelabs.github.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby For Nubies Followup]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/12/04/ruby-for-nubies-followup/"/>
+    <updated>2011-12-04T00:00:00-05:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/12/04/ruby-for-nubies-followup</id>
+    <content type="html"><![CDATA[<p><img align="top" height="250" src="http://instagr.am/p/XG8s-/media/?size=l" width="250"/></p>
+
+
+
+
+<p>We want to thank everyone who made it out this past weekend for our first <a href="https://twitter.com/#!/search/%23ruby4nubies" target="_blank">#Ruby4Nubies</a> class.  A big thanks to <a href="http://twitter.com/doctorzaius" target="_blank">Jeremy</a> and<a href="http://twitter.com/semanticart" target="_blank"> Jeffrey</a> for putting it together and making it a fun learning experience.</p>
+
+
+
+
+<p>For those of you who were there, a couple of the resources that will help you continue to sharpen your skills are:</p>
+
+
+
+
+<p><span>Boston Ruby Group - <a href="http://bostonrb.org" target="_blank">bostonrb</a></span></p>
+
+
+
+
+<p>Codeacademy for Ruby - <a href="http://tryruby.org" target="_blank">tryruby.org</a></p>
+
+
+
+
+<p>Learn Ruby Tutorial - <a href="http://ruby.learncodethehardway.org/" target="_blank">Learn Ruby the Hard Way</a></p>
+
+
+
+
+<p>We think that there is a strong demand to do this again but we may decide to do it in a several week course as opposed to a one day workshop.  The thought would be to touch on more than just Ruby.  We can do an overview of the components of a web app such as database design, javascript, Rails, etc to help people get to the point where they can mock up some simple prototypes.</p>
+
+
+
+
+<p>So far we&#8217;ve heard a lot of positive feedback on the class but we&#8217;d love to get your criticism as well.  Feel free to shoot us an email with your thoughts to <a href="mailto:learn@terriblelabs.com" target="_blank">learn@terriblelabs.com</a>!</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby for Nubies]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/11/22/ruby-for-nubies/"/>
+    <updated>2011-11-22T00:00:00-05:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/11/22/ruby-for-nubies</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/#!/doctorzaius/status/136790167821357056">Ruby for Nubies</a><br/><p><img height="150" src="http://degreedirectory.org/cimages/multimages/2/computer_programming.jpg" width="200"/></p></p>
+
+<p>We&#8217;ve gotten a great response from <a href="https://twitter.com/#!/doctorzaius/status/136790167821357056" target="_blank">Jeremy&#8217;s tweet</a> about an introductory worshop to Ruby, so we&#8217;ll be hosting one on December 3 from 9am to 3pm.  We have limited spots for this so if you&#8217;d like to come please shoot us a note at <a href="mailto:learn@terriblelabs.com" target="_blank">learn@terriblelabs.com</a>.</p>
+
+
+
+
+<p>This first workshop will be an intro to Ruby (and it looks like this will be an intro to programming for some of the attendees). We won&#8217;t cover anything Rails specific, but we&#8217;ll tailor the content to people who eventually want to level up to Rails.</p>
+
+
+
+
+<p>We&#8217;ll go over basic programming constructs (conditions and loops), functions, blocks, data types, data structures like Array and Hash, and maybe a brief intro to object-oriented programming with Ruby.<br/><br/><span>The format will be something like 15 minutes of lecture/examples with 15-30 minutes to experiment (in pairs) on the new topic, repeat. The goal will be to build out a simple interactive command-line game over the course of the day. We&#8217;ll have a handful of experienced Rubyists to help out with the hands-on work.</span><br/><br/><span>We don&#8217;t have have anything planned beyond this first Nubies workshop. It&#8217;s partly a market test for us (and we&#8217;ve gotten a great response), an opportunity to develop some content, and see what topics and formats might work going forward. I think the next logical step would be more advanced workshops on OOP with Ruby, Rails, JavaScript/CoffeeScript/</span><span>jQuery, etc.</span></p>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: BostonRB | Terrible Blog]]></title>
+  <link href="http://terriblelabs.github.com/blog/categories/bostonrb/atom.xml" rel="self"/>
+  <link href="http://terriblelabs.github.com/"/>
+  <updated>2012-01-04T22:28:07-05:00</updated>
+  <id>http://terriblelabs.github.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Night with Fellow Rubyists and Railsists]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/11/03/a-night-with-fellow-rubyists/"/>
+    <updated>2011-11-03T00:00:00-04:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/11/03/a-night-with-fellow-rubyists</id>
+    <content type="html"><![CDATA[<p><img height="220" width="220" src="http://guestlistapp.com/manage/events/76107/logo/1320081435/logo.png" align="text-top"/></p>
+
+
+
+
+<p>We&#8217;re excited to be sponsoring the first <a target="_blank" href="http://guestlistapp.com/events/76107">Bubbly Bub &amp; Grub at a Pub in the Hub Club</a>.  If you&#8217;re looking to grab some beers and food while catching up with fellow Rubyists, definitely come and hang.  Just make sure to <a target="_blank" href="http://guestlistapp.com/events/76107">snag a free ticket</a>.</p>
+
+
+
+
+<p>We will all be gathering at <a target="_blank" href="http://maps.google.com/maps?um=1&amp;ie=UTF-8&amp;q=the+black+rose+boston&amp;fb=1&amp;gl=us&amp;hq=the+black+rose&amp;hnear=0x89e3652d0d3d311b:0x787cbf240162e8a0,Boston,+MA&amp;cid=0,0,14298994862472615073&amp;ei=waKyTpyJOYjj0QGO0s3aBA&amp;sa=X&amp;oi=local_result&amp;ct=image&amp;ved=0CBUQ_BI">The Black Rose</a> in Quincy Market on November 29th from 6pm to 9pm.</p>
+
+
+
+
+<p>A big thanks to <a target="_blank" href="http://twitter.com/#!/bcardarella">Brian Cardarella</a> for making this event happen!</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jeremy W on Test-Driven Development]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd/"/>
+    <updated>2011-09-14T00:00:00-04:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/29057895" width="400" height="300" frameborder="0"></iframe>
+
+
+
+
+<p>My talk from Boston RB last night on Test Driven Development. Check out the slides below.</p>
+
+
+
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/9244867" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>

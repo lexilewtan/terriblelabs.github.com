@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>APIs and IPAs with RunKeeper Recap - Terrible Blog</title>
+  <meta name="author" content="Terrible Labs, Inc.">
+
+  
+  <meta name="description" content="This past weekend we hosted the first APIs and IPAs event with RunKeeper.  Before I get into the recap I just want to thank Winter Wyman and Silicon &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://terriblelabs.github.com/blog/2011/09/13/10166687919">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Terrible Blog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28104226-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Terrible Blog</a></h1>
+  
+    <h2>Because Terrible Labs loves you.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:terriblelabs.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">APIs and IPAs With RunKeeper Recap</h1>
+    
+    
+      <p class="meta">
+        
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Terrible Labs, Inc.</span></span>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-09-13T00:00:00-04:00" pubdate data-updated="true">Sep 13<span>th</span>, 2011</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><img height="240" width="180" align="text-top" src="http://a.yfrog.com/img736/2740/ia7hs.jpg"/></p>
+
+<p>This past weekend we hosted the first APIs and IPAs event with RunKeeper.  Before I get into the recap I just want to thank <a target="_blank" href="http://twitter.com/winterwyman">Winter Wyman</a> and <a target="_blank" href="http://twitter.com/svb_financial">Silicon Valley Bank</a> for sponsoring the day and <a target="_blank" href="http://twitter.com/gemvara">Gemvara</a> for letting us use their beautiful new office space to host the event.  Also, congratulations to Greg Rublev for winning Winter Wyman&#8217;s $200 Amazon gift card!</p>
+
+<p><img height="240" width="180" src="https://playfoursquare.s3.amazonaws.com/pix/WNCKYERZXRB40AVBL2QAV4QK1GWJ1XNSTJW3G3W3ERH4ETPB.jpg" align="middle"/></p>
+
+<p>We had a solid turnout of developers who were interested in learning more about <a target="_blank" href="http://developer.runkeeper.com">RunKeeper&#8217;s Health Graph API</a> and building apps for the RunKeeper community.  There was a large contingent of Ruby developers who banded together to focus on a couple different problems in the RunKeeper ecosystem.</p>
+
+<p><a target="_blank" href="http://twitter.com/joe_lind">Joe Lind</a> and <a target="_blank" href="http://twitter.com/im_a_muppet">Will Mernagh</a> spent a majority of their efforts building RunKeeper&#8217;s Ruby Wrapper, <a target="_blank" href="https://github.com/terriblelabs/BabyTooth">Baby Tooth</a>.  <a target="_blank" href="http://twitter.com/doctorzaius">Jeremy Weiskotten&#8217;s</a> team focused on building an app (still needs a name) that leverages the game layer to help RunKeeper users raise money for charities by completing fitness challenges.  And finally <a target="_blank" href="http://twitter.com/semanticart">Jeffrey Chupp</a> led a team working on an app that uses RunKeeper to track a user&#8217;s sleep.</p>
+
+<p><a target="_blank" href="http://blog.terriblelabs.com/post/10170542262/apiandiparecap1">Check out the video</a> from and Jeffrey, Joe and Jeremy&#8217;s presentations.  Thanks to <a target="_blank" href="http://twitter.com/hikerinheels">Arestia Rosenberg</a> for filming and editing!</p>
+
+<p>We ended up running out of time to put the polish on all of these apps so we&#8217;ve decided to spend the rest of this quarter working with the Health Graph API.  Every other <strong>Wednesday night at Gemvara (starting 9/21)</strong>, we&#8217;ll be getting together from <strong>6pm to 9pm</strong> to finish apps that have already been started and potentially create a few more.</p>
+
+<p><a target="_blank" href="http://apiandipa2.eventbrite.com?ref=ebtn"><img border="0" src="http://www.eventbrite.com/registerbutton?eid=2182889080" alt="Register for API&amp;#39;s and IPA&amp;#39;s: RunKeeper 9/21 in Boston, MA  on Eventbrite"/></a></p>
+
+<p>If you weren&#8217;t able to make it out on Sunday, feel free to sign up and swing by, we&#8217;d love to have you.</p>
+
+<p>Also, as this was our first foray into a hackathon style of event, we&#8217;d love to get the community&#8217;s feedback.  Are you interested in learning more about local startups&#8217; APIs and building apps on them?  If you came to the event, what did you like, what didn&#8217;t you like?  If you didn&#8217;t make it out we&#8217;d love to hear your 2 cents as well!  Please leave us your thoughts in the comments!</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Terrible Labs, Inc.</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-09-13T00:00:00-04:00" pubdate data-updated="true">Sep 13<span>th</span>, 2011</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/api/'>API</a>, <a class='category' href='/blog/categories/runkeeper/'>RunKeeper</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://terriblelabs.github.com/blog/2011/09/13/10166687919/" data-via="terriblelabs" data-counturl="http://terriblelabs.github.com/blog/2011/09/13/10166687919/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api/" title="Previous Post: APIs and IPAs featuring RunKeeper Health Graph API">&laquo; APIs and IPAs featuring RunKeeper Health Graph API</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/09/13/10170542262/" title="next Post: Video recap of our first APIs and IPAs event">Video recap of our first APIs and IPAs event &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/04/step-away-from-the-presentational-classes/">Step Away from the Presentational Classes</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/21/scotchoclock/">#ScotchOClock is coming soon!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/08/are-you-a-terriblelover/">Are you a #TerribleLover?</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/04/ruby-for-nubies-followup/">Ruby For Nubies Followup</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/11/28/git-talk-at-hack-harvard/">Terrible Labs Talks Git at HackHarvard</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/terriblelabs">@terriblelabs</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'terriblelabs',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("terriblelabs", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/terriblelabs" class="twitter-follow-button" data-show-count="false">Follow @terriblelabs</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Terrible Labs, Inc. -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'terriblelabsblog';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
