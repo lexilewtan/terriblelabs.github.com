@@ -11,7 +11,7 @@ A long, long time ago (2004 A.D.) the W3C
 [posted a tip](http://www.w3.org/QA/Tips/goodclassnames) for web developers:
 
 {% blockquote %}
-Use `class` with semantics in mind.
+Use class with semantics in mind.
 {% endblockquote %}
 
 Most web developers apparently didn't
@@ -139,7 +139,7 @@ Of course, these rules are only applied to an element if you include the
 `clearfix` class in your markup, like this:
 
 ``` html
-<section id="container" class="clearfix">...</div>
+<section id="container" class="clearfix">...</section>
 ```
 
 If you have a moderately complex layout you might need to use this class
@@ -188,7 +188,7 @@ section#container {
 Now your markup is completely and hilariously free of any presentation classes:
 
 ``` html
-<section id="container">...</div>
+<section id="container">...</section>
 ```
 
 Note that you can also create mixins that take parameters, like this:
@@ -220,7 +220,7 @@ border radius, and a module that implements the
 
 Blueprint defines a bunch of presentational classes, such as `.container` to
 define a grid container, `.span-x` to define a row with x columns, `.append-x`
-and `prepend-x` to append or prepend empty columns to a row, and much more.
+and `.prepend-x` to append or prepend empty columns to a row, and much more.
 Presentational classes. Sigh.
 
 Ingeniously, the Compass
