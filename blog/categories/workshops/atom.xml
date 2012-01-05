@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Workshops | Terrible Blog]]></title>
-  <link href="http://terriblelabs.github.com/blog/categories/workshops/atom.xml" rel="self"/>
-  <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-05T09:57:04-05:00</updated>
-  <id>http://terriblelabs.github.com/</id>
+  <link href="http://blog.terriblelabs.com/blog/categories/workshops/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:35:18-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
     <email><![CDATA[info@terriblelabs.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ruby For Nubies Followup]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/12/04/ruby-for-nubies-followup/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/12/04/ruby-for-nubies-followup/"/>
     <updated>2011-12-04T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/12/04/ruby-for-nubies-followup</id>
+    <id>http://blog.terriblelabs.com/blog/2011/12/04/ruby-for-nubies-followup</id>
     <content type="html"><![CDATA[<p><img align="top" height="250" src="http://instagr.am/p/XG8s-/media/?size=l" width="250"/></p>
 
 
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ruby for Nubies]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/11/22/ruby-for-nubies/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/11/22/ruby-for-nubies/"/>
     <updated>2011-11-22T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/11/22/ruby-for-nubies</id>
+    <id>http://blog.terriblelabs.com/blog/2011/11/22/ruby-for-nubies</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/#!/doctorzaius/status/136790167821357056">Ruby for Nubies</a><br/><p><img height="150" src="http://degreedirectory.org/cimages/multimages/2/computer_programming.jpg" width="200"/></p></p>
 
 <p>We&#8217;ve gotten a great response from <a href="https://twitter.com/#!/doctorzaius/status/136790167821357056" target="_blank">Jeremy&#8217;s tweet</a> about an introductory worshop to Ruby, so we&#8217;ll be hosting one on December 3 from 9am to 3pm.  We have limited spots for this so if you&#8217;d like to come please shoot us a note at <a href="mailto:learn@terriblelabs.com" target="_blank">learn@terriblelabs.com</a>.</p>

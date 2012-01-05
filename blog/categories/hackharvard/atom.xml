@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: HackHarvard | Terrible Blog]]></title>
-  <link href="http://terriblelabs.github.com/blog/categories/hackharvard/atom.xml" rel="self"/>
-  <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-05T09:57:04-05:00</updated>
-  <id>http://terriblelabs.github.com/</id>
+  <link href="http://blog.terriblelabs.com/blog/categories/hackharvard/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:35:18-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
     <email><![CDATA[info@terriblelabs.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Terrible Labs Talks Git at HackHarvard]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/11/28/git-talk-at-hack-harvard/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/11/28/git-talk-at-hack-harvard/"/>
     <updated>2011-11-28T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/11/28/git-talk-at-hack-harvard</id>
+    <id>http://blog.terriblelabs.com/blog/2011/11/28/git-talk-at-hack-harvard</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/32803757?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0"></iframe>
 
 

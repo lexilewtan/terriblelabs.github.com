@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: API | Terrible Blog]]></title>
-  <link href="http://terriblelabs.github.com/blog/categories/api/atom.xml" rel="self"/>
-  <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-05T09:57:04-05:00</updated>
-  <id>http://terriblelabs.github.com/</id>
+  <link href="http://blog.terriblelabs.com/blog/categories/api/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:35:18-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
     <email><![CDATA[info@terriblelabs.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[APIs and IPAs 9/21 with RunKeeper]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/23/10562512485/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/23/10562512485/"/>
     <updated>2011-09-23T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/23/10562512485</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/23/10562512485</id>
     <content type="html"><![CDATA[<p><img align="text-top" src="http://yfrog.com/nuzuooj:tw1" width="334" height="200"/></p>
 
 
@@ -80,9 +80,9 @@
   
   <entry>
     <title type="html"><![CDATA[Video recap of our first APIs and IPAs event]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/13/10170542262/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/13/10170542262/"/>
     <updated>2011-09-13T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/13/10170542262</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/13/10170542262</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/29002929" width="400" height="300" frameborder="0"></iframe>
 
 
@@ -98,9 +98,9 @@
   
   <entry>
     <title type="html"><![CDATA[APIs and IPAs with RunKeeper Recap]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/13/10166687919/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/13/10166687919/"/>
     <updated>2011-09-13T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/13/10166687919</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/13/10166687919</id>
     <content type="html"><![CDATA[<p><img height="240" width="180" align="text-top" src="http://a.yfrog.com/img736/2740/ia7hs.jpg"/></p>
 
 
@@ -153,9 +153,9 @@
   
   <entry>
     <title type="html"><![CDATA[APIs and IPAs featuring RunKeeper Health Graph API]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api/"/>
     <updated>2011-08-17T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api</id>
+    <id>http://blog.terriblelabs.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api</id>
     <content type="html"><![CDATA[<p><span id="internal-source-marker_0.9162468081340194">We&#8217;re excited to announce our first <strong>APIs and IPAs</strong> event! Yep, we&#8217;re drinking beers </span><span>and building apps on local startups&#8217; APIs. Teams of entrepreneurs, developers, marketers, and students can come hang out and compete to win $1,000 worth of prizes <strong>thanks to our sponsors </strong></span><strong><a href="http://siliconvalleybank.com/"><span>Silicon Valley Bank</span></a><span> and</span><span> </span><a href="http://www.winterwyman.com/"><span>Winter Wyman</span></a><span>.</span></strong></p>
 
 

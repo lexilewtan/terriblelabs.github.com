@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: TDD | Terrible Blog]]></title>
-  <link href="http://terriblelabs.github.com/blog/categories/tdd/atom.xml" rel="self"/>
-  <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-05T09:57:04-05:00</updated>
-  <id>http://terriblelabs.github.com/</id>
+  <link href="http://blog.terriblelabs.com/blog/categories/tdd/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:35:18-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
     <email><![CDATA[info@terriblelabs.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jeremy W on Test-Driven Development]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/14/wtf-tdd/"/>
     <updated>2011-09-14T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/14/wtf-tdd</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/29057895" width="400" height="300" frameborder="0"></iframe>
 
 

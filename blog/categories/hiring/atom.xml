@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Hiring | Terrible Blog]]></title>
-  <link href="http://terriblelabs.github.com/blog/categories/hiring/atom.xml" rel="self"/>
-  <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-05T09:57:04-05:00</updated>
-  <id>http://terriblelabs.github.com/</id>
+  <link href="http://blog.terriblelabs.com/blog/categories/hiring/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:35:18-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
     <email><![CDATA[info@terriblelabs.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Observations on Hiring Technical Talent]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/10/05/observations-on-hiring-technical-talent/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent/"/>
     <updated>2011-10-05T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/10/05/observations-on-hiring-technical-talent</id>
+    <id>http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent</id>
     <content type="html"><![CDATA[<p>I&#8217;ve had a bunch of conversations over the past few weeks where every person has asked me the same question, &#8220;Do you know any engineers I can hire?&#8221;.  Non technical co-founders are looking to partner up with technical co-founders, bigger companies are looking to fill out their engineering staff and funded startups are looking to build their engineering teams.  Engineers are in high demand which means if you&#8217;re looking to hire one you&#8217;re going to have to work for it!</p>
 
 

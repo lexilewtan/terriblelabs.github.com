@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Startups | Terrible Blog]]></title>
-  <link href="http://terriblelabs.github.com/blog/categories/startups/atom.xml" rel="self"/>
-  <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-05T09:57:04-05:00</updated>
-  <id>http://terriblelabs.github.com/</id>
+  <link href="http://blog.terriblelabs.com/blog/categories/startups/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:35:18-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
     <email><![CDATA[info@terriblelabs.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Terrible Labs on the Callie Crossley Show]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/10/29/terrible-labs-on-callie-crossley/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/10/29/terrible-labs-on-callie-crossley/"/>
     <updated>2011-10-29T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/10/29/terrible-labs-on-callie-crossley</id>
+    <id>http://blog.terriblelabs.com/blog/2011/10/29/terrible-labs-on-callie-crossley</id>
     <content type="html"><![CDATA[<p>Our very own <a target="_blank" href="http://twitter.com/cortlandt">Cort Johnson</a> was talking startups, the Boston startup ecosystem and failure on the <a target="_blank" href="http://wwe.wgbh.org/programs/The-Callie-Crossley-Show-855/episodes/Thurs-Oct-27Learning-from-the-Epic-Business-Fail-32596">Callie Crossley</a> show with <a target="_blank" href="http://twitter.com/sliggity">Greg Gomer</a> of <a target="_blank" href="http://bostinnovation.com">BostInnovation</a>.  Have a listen below!</p>
 
 
@@ -36,9 +36,9 @@
   
   <entry>
     <title type="html"><![CDATA[Observations on Hiring Technical Talent]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/10/05/observations-on-hiring-technical-talent/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent/"/>
     <updated>2011-10-05T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/10/05/observations-on-hiring-technical-talent</id>
+    <id>http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent</id>
     <content type="html"><![CDATA[<p>I&#8217;ve had a bunch of conversations over the past few weeks where every person has asked me the same question, &#8220;Do you know any engineers I can hire?&#8221;.  Non technical co-founders are looking to partner up with technical co-founders, bigger companies are looking to fill out their engineering staff and funded startups are looking to build their engineering teams.  Engineers are in high demand which means if you&#8217;re looking to hire one you&#8217;re going to have to work for it!</p>
 
 
@@ -121,9 +121,9 @@
   
   <entry>
     <title type="html"><![CDATA[It's not me, It's definitely you]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/27/its-not-me-its-definitely-you/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/27/its-not-me-its-definitely-you/"/>
     <updated>2011-09-27T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/27/its-not-me-its-definitely-you</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/27/its-not-me-its-definitely-you</id>
     <content type="html"><![CDATA[<p>It's been fun to watch the growth of Boston's early stage tech community over the past few years. Companies that once had trouble finding the resources to help them succeed are now finding the support they need to be successful. Because so many companies are being nurtured, it's been interesting to watch a new problem become more prevalent: the retention of good talent.</p>
 
 <p>All of us here at Terrible Labs have had the opportunity to work at several early stage companies in various product, engineering and sales roles. We've seen how hard it is to come by great talent in years past and now that the market for A-players becomes more and more competitive, companies should be focusing on creating great environments for their talent to work in.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Terrible Blog]]></title>
-  <link href="http://terriblelabs.github.com/atom.xml" rel="self"/>
-  <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-05T09:57:04-05:00</updated>
-  <id>http://terriblelabs.github.com/</id>
+  <link href="http://blog.terriblelabs.com/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:35:18-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
     <email><![CDATA[info@terriblelabs.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[#ScotchOClock with @SchneiderMike]]></title>
-    <link href="http://terriblelabs.github.com/blog/2012/01/05/scotchoclock-with-at-schneidermike/"/>
+    <link href="http://blog.terriblelabs.com/blog/2012/01/05/scotchoclock-with-at-schneidermike/"/>
     <updated>2012-01-05T09:42:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2012/01/05/scotchoclock-with-at-schneidermike</id>
+    <id>http://blog.terriblelabs.com/blog/2012/01/05/scotchoclock-with-at-schneidermike</id>
     <content type="html"><![CDATA[<iframe frameborder="0" height="360" src="http://www.youtube.com/embed/3p-UZjDYQa0" width="480"></iframe>
 
 
@@ -31,7 +31,7 @@
 
 <ul>
 <li><a href="http://twitter.com/schneidermike">@schneidermike</a></li>
-<li><a href="&#109;&#x61;&#105;&#108;&#116;&#111;&#58;&#109;&#115;&#99;&#104;&#x6e;&#x65;&#105;&#100;&#x65;&#114;&#x40;&#97;&#45;&#x67;&#46;&#x63;&#x6f;&#109;">&#x6d;&#x73;&#x63;&#104;&#x6e;&#x65;&#x69;&#100;&#x65;&#x72;&#64;&#x61;&#45;&#103;&#46;&#99;&#111;&#x6d;</a></li>
+<li><a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#58;&#x6d;&#x73;&#99;&#x68;&#110;&#x65;&#105;&#x64;&#x65;&#114;&#x40;&#x61;&#45;&#103;&#46;&#99;&#111;&#x6d;">&#109;&#x73;&#99;&#104;&#110;&#x65;&#x69;&#100;&#101;&#x72;&#x40;&#x61;&#x2d;&#103;&#46;&#x63;&#x6f;&#109;</a></li>
 <li><a href="http://www.schneidermike.com/">Blog</a></li>
 <li><a href="http://www.amazon.com/Location-Based-Marketing-Dummies-Strout/dp/1118022491/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1295435508&amp;amp;sr=8-1">Location Based Marketing for Dummies</a></li>
 </ul>
@@ -41,9 +41,9 @@
   
   <entry>
     <title type="html"><![CDATA[Step Away from the Presentational Classes]]></title>
-    <link href="http://terriblelabs.github.com/blog/2012/01/04/step-away-from-the-presentational-classes/"/>
+    <link href="http://blog.terriblelabs.com/blog/2012/01/04/step-away-from-the-presentational-classes/"/>
     <updated>2012-01-04T15:37:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2012/01/04/step-away-from-the-presentational-classes</id>
+    <id>http://blog.terriblelabs.com/blog/2012/01/04/step-away-from-the-presentational-classes</id>
     <content type="html"><![CDATA[<p>A long, long time ago (2004 A.D.) the W3C
 <a href="http://www.w3.org/QA/Tips/goodclassnames">posted a tip</a> for web developers:</p>
 
@@ -370,9 +370,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[#ScotchOClock is coming soon!]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/12/21/scotchoclock/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/12/21/scotchoclock/"/>
     <updated>2011-12-21T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/12/21/scotchoclock</id>
+    <id>http://blog.terriblelabs.com/blog/2011/12/21/scotchoclock</id>
     <content type="html"><![CDATA[<iframe width="400" height="225" src="http://www.youtube.com/embed/V8P4KXFv6fo?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe><p>At <a href="http://terriblelabs.com">Terrible Labs</a>, we&#8217;re much more than just a technical development shop. While we can&#8217;t help every startup develop their terribly awesome ideas, we work to provide as much technical and product guidance as possible while introducing entrepreneurs to those in the scene who can help them be successful.</p>
 
 <p>Through #ScotchOClock, our goal is to highlight the individuals in Boston (and beyond) that you should get to know and feel comfortable with asking for help.  Tune in each Thursday in January, to check out Jeremy&#8217;s (<a href="http://twitter.com/DoctorZaius">@DoctorZaius</a>) latest interview.</p>
@@ -383,9 +383,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Are you a #TerribleLover?]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/12/08/are-you-a-terriblelover/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/12/08/are-you-a-terriblelover/"/>
     <updated>2011-12-08T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/12/08/are-you-a-terriblelover</id>
+    <id>http://blog.terriblelabs.com/blog/2011/12/08/are-you-a-terriblelover</id>
     <content type="html"><![CDATA[<p>We want to thank everyone for your <a href="http://twitter.com/#!/search/%23terriblelover" target="_blank">terrible support</a>.  If you haven&#8217;t gotten your Terrible Labs sticker or t-shirt make sure you swing by our office or tweet at us so we can get you one.</p>
 
 <p>Thanks to all those that posted photos&#8230;</p>
@@ -442,9 +442,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Ruby For Nubies Followup]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/12/04/ruby-for-nubies-followup/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/12/04/ruby-for-nubies-followup/"/>
     <updated>2011-12-04T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/12/04/ruby-for-nubies-followup</id>
+    <id>http://blog.terriblelabs.com/blog/2011/12/04/ruby-for-nubies-followup</id>
     <content type="html"><![CDATA[<p><img align="top" height="250" src="http://instagr.am/p/XG8s-/media/?size=l" width="250"/></p>
 
 <p>We want to thank everyone who made it out this past weekend for our first <a href="https://twitter.com/#!/search/%23ruby4nubies" target="_blank">#Ruby4Nubies</a> class.  A big thanks to <a href="http://twitter.com/doctorzaius" target="_blank">Jeremy</a> and<a href="http://twitter.com/semanticart" target="_blank"> Jeffrey</a> for putting it together and making it a fun learning experience.</p>
@@ -465,9 +465,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Terrible Labs Talks Git at HackHarvard]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/11/28/git-talk-at-hack-harvard/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/11/28/git-talk-at-hack-harvard/"/>
     <updated>2011-11-28T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/11/28/git-talk-at-hack-harvard</id>
+    <id>http://blog.terriblelabs.com/blog/2011/11/28/git-talk-at-hack-harvard</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/32803757?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0"></iframe><p>Last week we had the opportunity to hang out with the <a href="http://www.hackharvard.org/gallery/" target="_blank">HackHarvard community</a>.  Even with Thanksgiving hours away, tons of students made it out to hear <a href="http://twitter.com/joe_lind" target="_blank">Joe</a> and <a href="http://twitter.com/doctorzaius" target="_blank">Jeremy</a> present on Git and GitHub.</p>
 
 <p>If you&#8217;re not familiar with the HackHarvard community, it&#8217;s an organization that broadens students&#8217; perspectives of computer science by exposing them to many real world applications.  If you&#8217;re interested in learning more, get in touch with one of our two gracious hosts, <a href="http://twitter.com/branliu" target="_blank">Brandon Liu</a> or <a href="http://twitter.com/badboyboyce" target="_blank">Peter &#8220;Bad Boy&#8221; Boyce</a>.</p>
@@ -476,9 +476,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Ruby for Nubies]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/11/22/ruby-for-nubies/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/11/22/ruby-for-nubies/"/>
     <updated>2011-11-22T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/11/22/ruby-for-nubies</id>
+    <id>http://blog.terriblelabs.com/blog/2011/11/22/ruby-for-nubies</id>
     <content type="html"><![CDATA[<a href="https://twitter.com/#!/doctorzaius/status/136790167821357056">Ruby for Nubies</a><br/><p><img height="150" src="http://degreedirectory.org/cimages/multimages/2/computer_programming.jpg" width="200"/></p>
 
 <p>We&#8217;ve gotten a great response from <a href="https://twitter.com/#!/doctorzaius/status/136790167821357056" target="_blank">Jeremy&#8217;s tweet</a> about an introductory worshop to Ruby, so we&#8217;ll be hosting one on December 3 from 9am to 3pm.  We have limited spots for this so if you&#8217;d like to come please shoot us a note at <a href="mailto:learn@terriblelabs.com" target="_blank">learn@terriblelabs.com</a>.</p>
@@ -491,9 +491,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Terrible Labs Office Hours]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/11/08/terrible-labs-office-hours/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/11/08/terrible-labs-office-hours/"/>
     <updated>2011-11-08T00:00:00-05:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/11/08/terrible-labs-office-hours</id>
+    <id>http://blog.terriblelabs.com/blog/2011/11/08/terrible-labs-office-hours</id>
     <content type="html"><![CDATA[<p>Over the past few months we&#8217;ve chatted with a bunch of people looking for advice on the technical side of their projects.  We&#8217;ve had conversations ranging from hiring technical co-founders to the tradeoffs involved when deciding to use relational databases vs. document databases.</p>
 
 <p>So we thought we&#8217;d open our doors (or Gemvara&#8217;s) to help anyone with their technical roadblocks.  We&#8217;re kicking off our first round of office hours on Wednesday November 16 starting at 1:30pm.  </p>
@@ -504,9 +504,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[A Night with Fellow Rubyists and Railsists]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/11/03/a-night-with-fellow-rubyists/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/11/03/a-night-with-fellow-rubyists/"/>
     <updated>2011-11-03T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/11/03/a-night-with-fellow-rubyists</id>
+    <id>http://blog.terriblelabs.com/blog/2011/11/03/a-night-with-fellow-rubyists</id>
     <content type="html"><![CDATA[<p><img height="220" width="220" src="http://guestlistapp.com/manage/events/76107/logo/1320081435/logo.png" align="text-top"/></p>
 
 <p>We&#8217;re excited to be sponsoring the first <a target="_blank" href="http://guestlistapp.com/events/76107">Bubbly Bub &amp; Grub at a Pub in the Hub Club</a>.  If you&#8217;re looking to grab some beers and food while catching up with fellow Rubyists, definitely come and hang.  Just make sure to <a target="_blank" href="http://guestlistapp.com/events/76107">snag a free ticket</a>.</p>
@@ -519,9 +519,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Terrible Labs on the Callie Crossley Show]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/10/29/terrible-labs-on-callie-crossley/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/10/29/terrible-labs-on-callie-crossley/"/>
     <updated>2011-10-29T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/10/29/terrible-labs-on-callie-crossley</id>
+    <id>http://blog.terriblelabs.com/blog/2011/10/29/terrible-labs-on-callie-crossley</id>
     <content type="html"><![CDATA[<p>Our very own <a target="_blank" href="http://twitter.com/cortlandt">Cort Johnson</a> was talking startups, the Boston startup ecosystem and failure on the <a target="_blank" href="http://wwe.wgbh.org/programs/The-Callie-Crossley-Show-855/episodes/Thurs-Oct-27Learning-from-the-Epic-Business-Fail-32596">Callie Crossley</a> show with <a target="_blank" href="http://twitter.com/sliggity">Greg Gomer</a> of <a target="_blank" href="http://bostinnovation.com">BostInnovation</a>.  Have a listen below!</p>
 
 <p>
@@ -536,9 +536,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Observations on Hiring Technical Talent]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/10/05/observations-on-hiring-technical-talent/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent/"/>
     <updated>2011-10-05T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/10/05/observations-on-hiring-technical-talent</id>
+    <id>http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent</id>
     <content type="html"><![CDATA[<p>I&#8217;ve had a bunch of conversations over the past few weeks where every person has asked me the same question, &#8220;Do you know any engineers I can hire?&#8221;.  Non technical co-founders are looking to partner up with technical co-founders, bigger companies are looking to fill out their engineering staff and funded startups are looking to build their engineering teams.  Engineers are in high demand which means if you&#8217;re looking to hire one you&#8217;re going to have to work for it!</p>
 
 <p>I don&#8217;t think there&#8217;s any sure fire way to go out and attract top developers as every company and situation is different.  I will however offer a few observations I&#8217;ve made of how some local companies are going about hiring.</p>
@@ -575,9 +575,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[It's not me, It's definitely you]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/27/its-not-me-its-definitely-you/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/27/its-not-me-its-definitely-you/"/>
     <updated>2011-09-27T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/27/its-not-me-its-definitely-you</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/27/its-not-me-its-definitely-you</id>
     <content type="html"><![CDATA[<p>It&#8217;s been fun to watch the growth of Boston&#8217;s early stage tech community over the past few years. Companies that once had trouble finding the resources to help them succeed are now finding the support they need to be successful. Because so many companies are being nurtured, it&#8217;s been interesting to watch a new problem become more prevalent: the retention of good talent.</p>
 
 <p>All of us here at Terrible Labs have had the opportunity to work at several early stage companies in various product, engineering and sales roles. We&#8217;ve seen how hard it is to come by great talent in years past and now that the market for A-players becomes more and more competitive, companies should be focusing on creating great environments for their talent to work in.</p>
@@ -618,9 +618,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[APIs and IPAs 9/21 with RunKeeper]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/23/10562512485/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/23/10562512485/"/>
     <updated>2011-09-23T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/23/10562512485</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/23/10562512485</id>
     <content type="html"><![CDATA[<p><img align="text-top" src="http://yfrog.com/nuzuooj:tw1" width="334" height="200"/></p>
 
 <p>We had another fun night at <a target="_blank" href="http://twitter.com/gemvara">Gemvara</a> working with the <a target="_blank" href="http://developer.runkeeper.com">RunKeeper HealthGraph API</a>.</p>
@@ -649,9 +649,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Jeremy W on Test-Driven Development]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/14/wtf-tdd/"/>
     <updated>2011-09-14T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/14/wtf-tdd</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/14/wtf-tdd</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/29057895" width="400" height="300" frameborder="0"></iframe>
 
 <p>My talk from Boston RB last night on Test Driven Development. Check out the slides below.</p>
@@ -662,9 +662,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[Video recap of our first APIs and IPAs event]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/13/10170542262/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/13/10170542262/"/>
     <updated>2011-09-13T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/13/10170542262</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/13/10170542262</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/29002929" width="400" height="300" frameborder="0"></iframe><p>Video recap of our first APIs and IPAs event. This quarter we&#8217;re building on RunKeeper&#8217;s Health Graph API.  </p>
 
 <p>Thanks to <a target="_blank" href="http://twitter.com/#!/hikerinheels">Arestia Rosenberg</a> for filming and editing this video!</p>
@@ -673,9 +673,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[APIs and IPAs with RunKeeper Recap]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/09/13/10166687919/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/13/10166687919/"/>
     <updated>2011-09-13T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/09/13/10166687919</id>
+    <id>http://blog.terriblelabs.com/blog/2011/09/13/10166687919</id>
     <content type="html"><![CDATA[<p><img height="240" width="180" align="text-top" src="http://a.yfrog.com/img736/2740/ia7hs.jpg"/></p>
 
 <p>This past weekend we hosted the first APIs and IPAs event with RunKeeper.  Before I get into the recap I just want to thank <a target="_blank" href="http://twitter.com/winterwyman">Winter Wyman</a> and <a target="_blank" href="http://twitter.com/svb_financial">Silicon Valley Bank</a> for sponsoring the day and <a target="_blank" href="http://twitter.com/gemvara">Gemvara</a> for letting us use their beautiful new office space to host the event.  Also, congratulations to Greg Rublev for winning Winter Wyman&#8217;s $200 Amazon gift card!</p>
@@ -700,9 +700,9 @@ sense? Comments and feedback are welcome!</p>
   
   <entry>
     <title type="html"><![CDATA[APIs and IPAs featuring RunKeeper Health Graph API]]></title>
-    <link href="http://terriblelabs.github.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api/"/>
+    <link href="http://blog.terriblelabs.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api/"/>
     <updated>2011-08-17T00:00:00-04:00</updated>
-    <id>http://terriblelabs.github.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api</id>
+    <id>http://blog.terriblelabs.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api</id>
     <content type="html"><![CDATA[<p><span id="internal-source-marker_0.9162468081340194">We&#8217;re excited to announce our first <strong>APIs and IPAs</strong> event! Yep, we&#8217;re drinking beers </span><span>and building apps on local startups&#8217; APIs. Teams of entrepreneurs, developers, marketers, and students can come hang out and compete to win $1,000 worth of prizes <strong>thanks to our sponsors </strong></span><strong><a href="http://siliconvalleybank.com/"><span>Silicon Valley Bank</span></a><span> and</span><span> </span><a href="http://www.winterwyman.com/"><span>Winter Wyman</span></a><span>.</span></strong></p>
 
 <p><strong><a target="_blank" href="http://apiandipa1.eventbrite.com/">Sign up for the event here&#8230;</a> (IMPORTANT: You must be on the registration list to get into Gemvara&#8217;s building)</strong></p>
