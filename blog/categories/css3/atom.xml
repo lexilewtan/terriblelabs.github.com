@@ -4,7 +4,7 @@
   <title><![CDATA[Category: CSS3 | Terrible Blog]]></title>
   <link href="http://terriblelabs.github.com/blog/categories/css3/atom.xml" rel="self"/>
   <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-04T16:55:54-05:00</updated>
+  <updated>2012-01-04T20:12:44-05:00</updated>
   <id>http://terriblelabs.github.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>A long, long time ago (2004 A.D.) the W3C
 <a href="http://www.w3.org/QA/Tips/goodclassnames">posted a tip</a> for web developers:</p>
 
-<p><blockquote><p>Use <code>class</code> with semantics in mind.</p></blockquote></p>
+<p><blockquote><p>Use class with semantics in mind.</p></blockquote></p>
 
 <p>Most web developers apparently didn't
 get the memo -- many web sites still use CSS classes that are presentational
@@ -163,7 +163,7 @@ looks something like this:</p>
 <code>clearfix</code> class in your markup, like this:</p>
 
 <p><code>html
-&lt;section id="container" class="clearfix"&gt;...&lt;/div&gt;
+&lt;section id="container" class="clearfix"&gt;...&lt;/section&gt;
 </code></p>
 
 <p>If you have a moderately complex layout you might need to use this class
@@ -215,7 +215,7 @@ section#container {
 <p>Now your markup is completely and hilariously free of any presentation classes:</p>
 
 <p><code>html
-&lt;section id="container"&gt;...&lt;/div&gt;
+&lt;section id="container"&gt;...&lt;/section&gt;
 </code></p>
 
 <p>Note that you can also create mixins that take parameters, like this:</p>
@@ -247,7 +247,7 @@ border radius, and a module that implements the
 
 <p>Blueprint defines a bunch of presentational classes, such as <code>.container</code> to
 define a grid container, <code>.span-x</code> to define a row with x columns, <code>.append-x</code>
-and <code>prepend-x</code> to append or prepend empty columns to a row, and much more.
+and <code>.prepend-x</code> to append or prepend empty columns to a row, and much more.
 Presentational classes. Sigh.</p>
 
 <p>Ingeniously, the Compass

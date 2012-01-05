@@ -4,7 +4,7 @@
   <title><![CDATA[Terrible Blog]]></title>
   <link href="http://terriblelabs.github.com/atom.xml" rel="self"/>
   <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-01-04T16:55:54-05:00</updated>
+  <updated>2012-01-04T20:12:44-05:00</updated>
   <id>http://terriblelabs.github.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>A long, long time ago (2004 A.D.) the W3C
 <a href="http://www.w3.org/QA/Tips/goodclassnames">posted a tip</a> for web developers:</p>
 
-<blockquote><p>Use `class` with semantics in mind.</p></blockquote>
+<blockquote><p>Use class with semantics in mind.</p></blockquote>
 
 
 <p>Most web developers apparently didn&#8217;t
@@ -171,7 +171,7 @@ looks something like this:</p>
 <code>clearfix</code> class in your markup, like this:</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;section</span> <span class="na">id=</span><span class="s">&quot;container&quot;</span> <span class="na">class=</span><span class="s">&quot;clearfix&quot;</span><span class="nt">&gt;</span>...<span class="nt">&lt;/div&gt;</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;section</span> <span class="na">id=</span><span class="s">&quot;container&quot;</span> <span class="na">class=</span><span class="s">&quot;clearfix&quot;</span><span class="nt">&gt;</span>...<span class="nt">&lt;/section&gt;</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
@@ -236,7 +236,7 @@ other styles for that rule):</p>
 <p>Now your markup is completely and hilariously free of any presentation classes:</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;section</span> <span class="na">id=</span><span class="s">&quot;container&quot;</span><span class="nt">&gt;</span>...<span class="nt">&lt;/div&gt;</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;section</span> <span class="na">id=</span><span class="s">&quot;container&quot;</span><span class="nt">&gt;</span>...<span class="nt">&lt;/section&gt;</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
@@ -283,7 +283,7 @@ border radius, and a module that implements the
 
 <p>Blueprint defines a bunch of presentational classes, such as <code>.container</code> to
 define a grid container, <code>.span-x</code> to define a row with x columns, <code>.append-x</code>
-and <code>prepend-x</code> to append or prepend empty columns to a row, and much more.
+and <code>.prepend-x</code> to append or prepend empty columns to a row, and much more.
 Presentational classes. Sigh.</p>
 
 <p>Ingeniously, the Compass
