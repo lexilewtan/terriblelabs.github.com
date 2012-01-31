@@ -3,7 +3,7 @@ layout: post
 title: "#ScotchOClock with Jennifer Lum"
 date: 2012-01-26 14:59
 comments: true
-categories: [scotchoclock, boston, startup]
+categories: [ScotchOClock, boston, startup]
 author: Cort Johnson
 ---
 <iframe width="853" height="480" src="http://www.youtube.com/embed/JGrVGlAwOtA" frameborder="0" allowfullscreen></iframe>
