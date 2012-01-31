@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: HackHarvard | Terrible Blog]]></title>
+  <link href="http://blog.terriblelabs.com/blog/categories/hackharvard/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:52:47-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Terrible Labs Talks Git at HackHarvard]]></title>
+    <link href="http://blog.terriblelabs.com/blog/2011/11/28/git-talk-at-hack-harvard/"/>
+    <updated>2011-11-28T00:00:00-05:00</updated>
+    <id>http://blog.terriblelabs.com/blog/2011/11/28/git-talk-at-hack-harvard</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/32803757?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0"></iframe>
+
+
+<p>Last week we had the opportunity to hang out with the <a href="http://www.hackharvard.org/gallery/" target="_blank">HackHarvard community</a>.  Even with Thanksgiving hours away, tons of students made it out to hear <a href="http://twitter.com/joe_lind" target="_blank">Joe</a> and <a href="http://twitter.com/doctorzaius" target="_blank">Jeremy</a> present on Git and GitHub.</p>
+
+
+
+
+<p>If you&#8217;re not familiar with the HackHarvard community, it&#8217;s an organization that broadens students&#8217; perspectives of computer science by exposing them to many real world applications.  If you&#8217;re interested in learning more, get in touch with one of our two gracious hosts, <a href="http://twitter.com/branliu" target="_blank">Brandon Liu</a> or <a href="http://twitter.com/badboyboyce" target="_blank">Peter &#8220;Bad Boy&#8221; Boyce</a>.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

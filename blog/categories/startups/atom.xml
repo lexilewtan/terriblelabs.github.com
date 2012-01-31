@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Startups | Terrible Blog]]></title>
+  <link href="http://blog.terriblelabs.com/blog/categories/startups/atom.xml" rel="self"/>
+  <link href="http://blog.terriblelabs.com/"/>
+  <updated>2012-01-05T10:52:47-05:00</updated>
+  <id>http://blog.terriblelabs.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Terrible Labs on the Callie Crossley Show]]></title>
+    <link href="http://blog.terriblelabs.com/blog/2011/10/29/terrible-labs-on-callie-crossley/"/>
+    <updated>2011-10-29T00:00:00-04:00</updated>
+    <id>http://blog.terriblelabs.com/blog/2011/10/29/terrible-labs-on-callie-crossley</id>
+    <content type="html"><![CDATA[<p>Our very own <a target="_blank" href="http://twitter.com/cortlandt">Cort Johnson</a> was talking startups, the Boston startup ecosystem and failure on the <a target="_blank" href="http://wwe.wgbh.org/programs/The-Callie-Crossley-Show-855/episodes/Thurs-Oct-27Learning-from-the-Epic-Business-Fail-32596">Callie Crossley</a> show with <a target="_blank" href="http://twitter.com/sliggity">Greg Gomer</a> of <a target="_blank" href="http://bostinnovation.com">BostInnovation</a>.  Have a listen below!</p>
+
+
+
+
+<p>
+
+<object width="480" height="286">
+
+<param name="movie" value="http://wwe.wgbh.org/media/player.swf"><param name="allowFullScreen" value="true"><param name="flashvars" value="file=http://streams.wgbh.org/online/cross/cross20111027_1.mp3&amp;width=480&amp;height=286&amp;link=http://wwe.wgbh.org/programs/programDetail.cfm?programid=855&amp;featureid=32596&amp;rssid=4&amp;fullscreen=true&amp;image=http://wwe.wgbh.org&amp;logo=http://streams.wgbh.org/images/mediaplayer/wgbh_logo_24bit_50.png"><embed src="http://wwe.wgbh.org/media/player.swf" width="480" height="286" allowscriptaccess="always" allowfullscreen="true" flashvars="file=http://streams.wgbh.org/online/cross/cross20111027_1.mp3&amp;link=http://wwe.wgbh.org/programs/programDetail.cfm?programid=855&amp;featureid=32596&amp;rssid=4&amp;fullscreen=true&amp;image=http://wwe.wgbh.org&amp;logo=http://streams.wgbh.org/images/mediaplayer/wgbh_logo_24bit_50.png"></embed></object>
+
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Observations on Hiring Technical Talent]]></title>
+    <link href="http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent/"/>
+    <updated>2011-10-05T00:00:00-04:00</updated>
+    <id>http://blog.terriblelabs.com/blog/2011/10/05/observations-on-hiring-technical-talent</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve had a bunch of conversations over the past few weeks where every person has asked me the same question, &#8220;Do you know any engineers I can hire?&#8221;.  Non technical co-founders are looking to partner up with technical co-founders, bigger companies are looking to fill out their engineering staff and funded startups are looking to build their engineering teams.  Engineers are in high demand which means if you&#8217;re looking to hire one you&#8217;re going to have to work for it!</p>
+
+
+
+
+<p>I don&#8217;t think there&#8217;s any sure fire way to go out and attract top developers as every company and situation is different.  I will however offer a few observations I&#8217;ve made of how some local companies are going about hiring.</p>
+
+
+
+
+<p><strong>Relationship building</strong></p>
+
+
+
+
+<p>When chatting with a few companies and asking how they were able to build their engineering teams, they remarked that they had leveraged the connections they had made while working at previous companies.  One company went back to a previous employer (don&#8217;t worry lawyers and employers in MA, they didn&#8217;t infringe on their non-solicitation agreements) and recruited engineers they had worked with in the past.</p>
+
+
+
+
+<p>One person who didn&#8217;t have the luxury of leveraging a former engineering staff, pounded the pavement, becoming a regular at different developer meetups around town.  He told me that over the course of a year, he was able to develop strong relationships with developers eager to refer him engineering candidates.</p>
+
+
+
+
+<p><strong>Monetary Incentive</strong></p>
+
+
+
+
+<p>With such a high demand for tech talent, companies have been throwing a lot of cash at the problem.  I&#8217;m sure everyone is aware that <a target="_blank" href="http://bostinnovation.com/2011/01/24/refer-a-hubspot-developer-get-10k-join-hubspot-as-a-dev-get-a-4k-shopping-spree/">HubSpot is paying $10k</a> for any referred new technical hire that stays at the company for a specific amount of time.  Performable was also playing the same game, <a target="_blank" href="http://bostinnovation.com/2011/04/19/a-second-shot-heard-round-the-dev-community-performable-to-offer-12k-talent-referral/">offering $12k per developer</a>, before being acquired by HubSpot.  If you have the money and need the talent, throwing cash around could potentially help.</p>
+
+
+
+
+<p><strong>Poach</strong></p>
+
+
+
+
+<p>There has been a lot of angel and VC money flowing into the startup scene over the past few years.  Many of these startups, who have been around for a while, ramped up quickly, filling out their engineering teams but still have yet to achieve the rocket growth they expected.  After chatting with a few engineers at these types of companies, I&#8217;ve learned that given the right situation they&#8217;d be inclined to join a new team and attack a new problem.</p>
+
+
+
+
+<p>If you&#8217;re a startup, I&#8217;d also take a look at larger companies and agencies.  Many of these developers are super active in the developer community and get involved in the various hackathons and user groups around town.  While <a target="_blank" href="http://blog.terriblelabs.com/post/10562512485/apis-and-ipas-9-21-with-runkeeper">hosting a couple of hackathons</a>, I&#8217;ve had a chance to chat with several engineers working at larger corporations.  It was really interesting for me to hear how many of these guys are actually interested in joining a startup.  After one engineer made a similar statement at a recent APIs and IPAs, he was instantly bombarded with interest from several big name startups.</p>
+
+
+
+
+<p><strong>Generate &#8216;The Perfect Storm&#8217;</strong></p>
+
+
+
+
+<p>There are several companies in Boston that are great at generating &#8216;the perfect storm&#8217; and as a byproduct, have had an easier time attracting talent.</p>
+
+
+
+
+<p>The first step to creating the perfect storm is to make yourself the prettiest girl in the room.  Just as you would when trying to raise money, the more hype you can create for your company the more interested everyone (not just engineers) will be in helping you execute your vision.  By being the prettiest girl in Boston, you&#8217;ll have an easy time attracting talent.</p>
+
+
+
+
+<p>The second step is to sell a grand vision that solves an interesting problem.  To achieve this, it helps to have an incredible storyteller.  It&#8217;s not that you want to sell ice to eskimos but you want to tell the story of how you are going to change the world.  You&#8217;re doing this when you&#8217;re talking to VCs and angles, so do the same when you&#8217;re trying to recruit talent as well.</p>
+
+
+
+
+<p>The final step in creating the perfect storm is to already have great people on your team.  When joining a company, people want to move their career forward and become more valuable.  The best way to do this is to improve one&#8217;s skills by learning from super experienced people like the <a target="_blank" href="https://twitter.com/#!/dcancel">David Cancel</a>&#8217;s, <a target="_blank" href="http://twitter.com/dharmesh">Dharmesh Shah</a>&#8217;s, <a target="_blank" href="https://twitter.com/#!/rseanlindsay">Sean Lindsay</a>&#8217;s, and <a target="_blank" href="https://twitter.com/#!/wkoffel">Will Koffe</a>l&#8217;s of the world.  Companies that are able to convey the aptitude of their team tend to be much prettier than the others.</p>
+
+
+
+
+<p>These are just a few observations I&#8217;ve made over the past few years.  I&#8217;d love to hear any other thoughts people have!</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[It's not me, It's definitely you]]></title>
+    <link href="http://blog.terriblelabs.com/blog/2011/09/27/its-not-me-its-definitely-you/"/>
+    <updated>2011-09-27T00:00:00-04:00</updated>
+    <id>http://blog.terriblelabs.com/blog/2011/09/27/its-not-me-its-definitely-you</id>
+    <content type="html"><![CDATA[<p>It's been fun to watch the growth of Boston's early stage tech community over the past few years. Companies that once had trouble finding the resources to help them succeed are now finding the support they need to be successful. Because so many companies are being nurtured, it's been interesting to watch a new problem become more prevalent: the retention of good talent.</p>
+
+<p>All of us here at Terrible Labs have had the opportunity to work at several early stage companies in various product, engineering and sales roles. We've seen how hard it is to come by great talent in years past and now that the market for A-players becomes more and more competitive, companies should be focusing on creating great environments for their talent to work in.</p>
+
+<p>As we too continue to build our company and team, here are a few things we're constantly thinking about...</p>
+
+<h3>Culture</h3>
+
+<p>We've seen first hand what it's like to build a company culture and we know it's not easy.</p>
+
+<p>Yes, the building and execution of your product is super important and no doubt you will deliver. What tends to be equally as important is the the road the team travels while building the product.</p>
+
+<p>Your goal is to build a team that enjoys not only working together but spending long hours together. In order to achieve this, it's all about getting out of the office and away from work. Allow your team to step out of their work shell and be themselves. Whether that means going out for drinks, taking a trip together, going out for dinner or singing karaoke, allow your team to share in unique experiences and in turn you'll have a team that's closer and better friends.</p>
+
+<p>The journey will be long, make sure it's enjoyable for everyone along the way.</p>
+
+<h3>Learning</h3>
+
+<p>The people you've hired to work on your team are the ones who are willing to get their hands dirty and solve big problems. People join companies not for the paycheck but because they're passionate about a space, problem or team.</p>
+
+<p>Make sure the problem you're solving is well stated and interesting. Your team should light up when they talk about what they're working on and who they're working with.</p>
+
+<p>If that's not the case, empower your team to explore subsets of the problem you're trying to solve. This doesn't have to be their full-time job but an opportunity for them to be creative and come up with solutions you may have never thought possible.</p>
+
+<h3>Communication</h3>
+
+<p>The team you've assembled should be stacked with people you believe in and trust to execute your company's grand vision. No doubt issues and detours will arise, it's expected at any company. The important part to remember is to treat your team with the trust you'd expect them to confide in you.</p>
+
+<p>When unfortunate speed-bumps present themselves, be open with your team and work on solving the problem together. A lack of communication merely delays the inevitable, difficult conversation and ultimately leads to a more negative response from your team.</p>
+
+<p>Like all successful relationships (because I would know), successful teams are built on transparency and communication.</p>
+
+<h3>The Future Looks Competitive</h3>
+
+<p>I'm excited to watch as more companies startup here in Boston. The ecosystem is getting stronger each day and the companies more compelling. Just make sure you are conscious of the environment you're creating otherwise you may find yourself a lonely, one man team.</p>
+]]></content>
+  </entry>
+  
+</feed>

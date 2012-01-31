@@ -1,0 +1,329 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>APIs and IPAs 9/21 with RunKeeper - Terrible Blog</title>
+  <meta name="author" content="Terrible Labs, Inc.">
+
+  
+  <meta name="description" content="We had another fun night at Gemvara working with the RunKeeper HealthGraph API. As we talked about in the last blog post, we&#8217;re still trying &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://blog.terriblelabs.com/blog/2011/09/23/10562512485">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Terrible Blog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28104226-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Terrible Blog</a></h1>
+  
+    <h2>Because Terrible Labs loves you.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:blog.terriblelabs.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">APIs and IPAs 9/21 With RunKeeper</h1>
+    
+    
+      <p class="meta">
+        
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Terrible Labs, Inc.</span></span>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-09-23T00:00:00-04:00" pubdate data-updated="true">Sep 23<span>rd</span>, 2011</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><img align="text-top" src="http://yfrog.com/nuzuooj:tw1" width="334" height="200"/></p>
+
+<p>We had another fun night at <a target="_blank" href="http://twitter.com/gemvara">Gemvara</a> working with the <a target="_blank" href="http://developer.runkeeper.com">RunKeeper HealthGraph API</a>.</p>
+
+<p>As we talked about in the last blog post, we&#8217;re still trying to figure out how best to run these hack-fests.  For the next couple months we&#8217;re going to meet up every other Wednesday night at Gemvara from 6pm to 9pm to continue working with the RunKeeper API.  </p>
+
+<p>On November 16th we&#8217;re going to get together for a final presentation night where we can recap on the apps we&#8217;ve built and demo them to the greater Boston community and to the RunKeeper team.</p>
+
+<p>I know<a target="_blank" href="http://twitter.com/jjacobs22"> Jason Jacobs</a> (CEO of RunKeeper) is willing to leverage the RunKeeper press machine to highlight apps built during APIs and IPAs, so if you&#8217;re interested in getting some exposure for yourself and your app, come out and get involved!</p>
+
+<p>Sign up for the next one on 10/5&#8230;</p>
+
+<p><a target="_blank" href="http://apipa3.eventbrite.com?ref=ebtn"><img alt="Register for API&amp;#39;s and IPA&amp;#39;s: RunKeeper 10/5 in Boston, MA  on Eventbrite" src="http://www.eventbrite.com/registerbutton?eid=2235598736" border="0"/></a></p>
+
+<p>This past Wednesday, we were psyched to have team <a target="_blank" href="http://twitter.com/evertrue">EverTrue</a> out which included <a target="_blank" href="http://twitter.com/brentgrinna">Brent</a>, <a target="_blank" href="http://twitter.com/evertrueeric">Eric</a>, <a target="_blank" href="http://twitter.com/jessebardo">Jesse</a>, <a target="_blank" href="http://twitter.com/andrewburch">Drew</a>, Courtney, <a target="_blank" href="http://twitter.com/andrhamm">Andrew</a> and <a target="_blank" href="http://twitter.com/tonyd256">Anthony</a>.  These guys spent their time building an app that incorporates charitable giving with exercise.  Keep your eye out for their RunKeeper app, I&#8217;ve got a feeling that when they present in November the demo will be very cool!</p>
+
+<p><a target="_blank" href="http://twitter.com/patientslikeme">Patients Like Me</a> was also well represented by <a target="_blank" href="http://twitter.com/semanticart">Jeffrey Chupp</a> and <a target="_blank" href="http://www.patientslikeme.com/members/view/17">Jeff Cole</a>.  Jeffrey continued to work on his app for recording one&#8217;s sleep while Jeff was working on a map overlay that allows Runkeeper users to compare segments of the same route over time.  He&#8217;s currently looking at his morning commute by car, but this easily transfers over to cycling, running and other activities.</p>
+
+<p><a target="_blank" href="http://twitter.com/jaichim">Dave</a> and <a target="_blank" href="http://twitter.com/dolphyfernandes">Dolphy</a> of <a target="_blank" href="http://twitter.com/isobar">Isobar</a> were out for the first time and started working on a Java wrapper for the Health Graph API.  I&#8217;m excited to see this get done as it will really help encourage more Java app development with the RunKeeper API.</p>
+
+<p><a target="_blank" href="http://twitter.com/im_a_muppet">Will Mernagh</a> from <a target="_blank" href="http://twitter.com/iorahealth">Iora Health</a> also made it back out to continue working with <a target="_blank" href="http://twitter.com/joe_lind">Joe Lind</a> on the Ruby wrapper, <a target="_blank" href="http://github.com/terriblelabs">BabyTooth</a>, which is getting very close to completion.</p>
+
+<p><a target="_blank" href="http://twitter.com/ezyz">Yifei Zhang</a> of <a target="_blank" href="http://tapforge.com">TapForge</a> was also out working on front end design for the chartiable giving/challenges app that <a target="_blank" href="http://twitter.com/doctorzaius">Jeremy Weiskotten</a> has been building.  This app is really shaping up and I&#8217;m excited to start using it when it&#8217;s done!</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Terrible Labs, Inc.</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-09-23T00:00:00-04:00" pubdate data-updated="true">Sep 23<span>rd</span>, 2011</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/api/'>API</a>, <a class='category' href='/blog/categories/runkeeper/'>RunKeeper</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.terriblelabs.com/blog/2011/09/23/10562512485/" data-via="terriblelabs" data-counturl="http://blog.terriblelabs.com/blog/2011/09/23/10562512485/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/09/14/wtf-tdd/" title="Previous Post: Jeremy W on Test-Driven Development">&laquo; Jeremy W on Test-Driven Development</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/09/27/its-not-me-its-definitely-you/" title="next Post: It's not me, It's definitely you">It's not me, It's definitely you &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/05/scotchoclock-with-at-schneidermike/">#ScotchOClock with @SchneiderMike</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/04/step-away-from-the-presentational-classes/">Step Away from the Presentational Classes</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/21/scotchoclock/">#ScotchOClock is coming soon!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/08/are-you-a-terriblelover/">Are you a #TerribleLover?</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/04/ruby-for-nubies-followup/">Ruby For Nubies Followup</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/terriblelabs">@terriblelabs</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'terriblelabs',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("terriblelabs", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/terriblelabs" class="twitter-follow-button" data-show-count="false">Follow @terriblelabs</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Terrible Labs, Inc. -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'terriblelabsblog';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
