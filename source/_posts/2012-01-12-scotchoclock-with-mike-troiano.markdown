@@ -3,7 +3,8 @@ layout: post
 title: "#ScotchOClock with Mike Troiano"
 date: 2012-01-12 14:14
 comments: true
-categories: scotchoclock
+categories: [ScotchOClock]
+author: Cort Johnson
 ---
 
 <iframe width="853" height="480" src="http://www.youtube.com/embed/YUH1KyImyWI" frameborder="0" allowfullscreen></iframe>
