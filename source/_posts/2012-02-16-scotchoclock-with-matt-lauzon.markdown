@@ -14,7 +14,7 @@ But what you’ll learn most about Matt on Twitter is that he loves to help othe
 
 So head out to Estate on February 21 to meet Matt and #PayItForward!
 
-Matt’s contact info:
+### Matt’s contact info:
 
-[@MattLauzon](http://twitter.com/mattlauzon)
-[LinkedIn](http://www.linkedin.com/pub/matt-lauzon/2/5aa/b20)
+* [@MattLauzon](http://twitter.com/mattlauzon)
+* [LinkedIn](http://www.linkedin.com/pub/matt-lauzon/2/5aa/b20)
