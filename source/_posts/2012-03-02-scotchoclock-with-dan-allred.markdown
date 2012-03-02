@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#ScotchOClock with Dan Allred"
-date: 2012-02-02 16:11
+date: 2012-02-23 16:11
 comments: true
 categories: [ScotchOClock]
 author: Cort Johnson
