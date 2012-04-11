@@ -4,7 +4,7 @@
   <title><![CDATA[Terrible Blog]]></title>
   <link href="http://terriblelabs.github.com/atom.xml" rel="self"/>
   <link href="http://terriblelabs.github.com/"/>
-  <updated>2012-04-11T11:07:02-04:00</updated>
+  <updated>2012-04-11T11:22:10-04:00</updated>
   <id>http://terriblelabs.github.com/</id>
   <author>
     <name><![CDATA[Terrible Labs, Inc.]]></name>
@@ -18,11 +18,11 @@
     <link href="http://terriblelabs.github.com/blog/2012/04/11/our-new-1984-style-office/"/>
     <updated>2012-04-11T10:59:00-04:00</updated>
     <id>http://terriblelabs.github.com/blog/2012/04/11/our-new-1984-style-office</id>
-    <content type="html"><![CDATA[<p>It&#8217;s been 9 months since Terrible Labs hatched.  It&#8217;s bittersweet for us to announce that we are growing up and leaving our gracious hosts at <a href="" title="http://gemvara.com">Gemvara</a> for an office of our own on <a href="" title="http://maps.google.com/maps?q=129+kingston+st+boston+ma&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x89e37a786561b0eb:0xf6d9aa5b65ef905d,129+Kingston+St,+Boston,+MA+02111&amp;gl=us&amp;ei=t5iFT7TbE8nVgQe5lNS7Bw&amp;sa=X&amp;oi=geocode_result&amp;ct=image&amp;resnum=1&amp;ved=0CCIQ8gEwAA">Terrible Row</a>.</p>
+    <content type="html"><![CDATA[<p>It&#8217;s been 9 months since Terrible Labs hatched.  It&#8217;s bittersweet for us to announce that we are growing up and leaving our gracious hosts at <a href="http://gemvara.com">Gemvara</a> for an office of our own on <a href="http://maps.google.com/maps?q=129+kingston+st+boston+ma&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x89e37a786561b0eb:0xf6d9aa5b65ef905d,129+Kingston+St,+Boston,+MA+02111&amp;gl=us&amp;ei=t5iFT7TbE8nVgQe5lNS7Bw&amp;sa=X&amp;oi=geocode_result&amp;ct=image&amp;resnum=1&amp;ved=0CCIQ8gEwAA">Terrible Row</a>.</p>
 
-<p>With our own space, we plan to get back into the groove of hosting community events, teaching Ruby4Nubies and co-working with other startups.  However, in order for us to get any work done we&#8217;ll need to buy office furniture which is why we decided to enter <a href="" title="http://myturnstone.com/contest/">Turnstone&#8217;s $25k office makeover</a>.</p>
+<p>With our own space, we plan to get back into the groove of hosting community events, teaching Ruby4Nubies and co-working with other startups.  However, in order for us to get any work done we&#8217;ll need to buy office furniture which is why we decided to enter <a href="http://myturnstone.com/contest/">Turnstone&#8217;s $25k office makeover</a>.</p>
 
-<p>Check out our video submission and learn why in May of 2012, Terrible Labs, with the help of Turnstone, will introduce their new office.  And you&#8217;ll see why it no longer looks like it&#8217;s from 1984 (voice cameo from <a href="" title="http://twitter.com/curtnickisch">Curt Nickisch</a>!).</p>
+<p>Check out our video submission and learn why in May of 2012, Terrible Labs, with the help of Turnstone, will introduce their new office.  And you&#8217;ll see why it no longer looks like it&#8217;s from 1984 (voice cameo from <a href="http://twitter.com/curtnickisch">Curt Nickisch</a>!).</p>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/4Pm0e-U_N2U" frameborder="0" allowfullscreen></iframe>
 
@@ -37,15 +37,18 @@
     <content type="html"><![CDATA[<object width="853" height="480"><param name="movie" value="http://www.youtube.com/v/9aydhpMRUCk?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9aydhpMRUCk?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="853" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 
-<p>I’m not going to lie, I’m a big NPR fan and listen to it every day through their mobile app and at work.  But one thing that has always driven me crazy has been trying to figure out what Bob Oakes, Kai Ryssdal, Click and Clack, and the rest of the NPR gang actually look like.  So rather than use Google image search to uncover this mystery, we at Terrible Labs decided to bring on one of Boston’s best voices from <a href="" title="http://wbur.org/">WBUR</a>, <a href="" title="http://twitter.com/curtnickisch">Curt Nickisch</a>.</p>
+<p>I’m not going to lie, I’m a big NPR fan and listen to it every day through their mobile app and at work.  But one thing that has always driven me crazy has been trying to figure out what Bob Oakes, Kai Ryssdal, Click and Clack, and the rest of the NPR gang actually look like.  So rather than use Google image search to uncover this mystery, we at Terrible Labs decided to bring on one of Boston’s best voices from <a href="" title="http://wbur.org/">WBUR</a>, <a href="http://twitter.com/curtnickisch">Curt Nickisch</a>.</p>
 
 <p>I’ve gotten to know Curt over the last few months and he’s one of the most helpful people I know.  If you’re interested in learning how to get your company publicized through main stream media or want to see for yourself that Curt is more than just a voice on the radio, feel free get in touch with him.</p>
 
 <h3>Curt’s info:</h3>
 
-<p><a href="" title="http://twitter.com/curtnickisch">@CurtNickisch</a>
-<a href="" title="http://curt.fm/">Blog</a>
-<a href="" title="http://www.facebook.com/CurtNickischJournalist">Facebook</a></p>
+<ul>
+<li><a href="http://twitter.com/curtnickisch">@CurtNickisch</a></li>
+<li><a href="http://curt.fm/">Blog</a></li>
+<li><a href="http://www.facebook.com/CurtNickischJournalist">Facebook</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -57,15 +60,15 @@
     <content type="html"><![CDATA[<object width="853" height="480"><param name="movie" value="http://www.youtube.com/v/5ibiJRkBttU?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5ibiJRkBttU?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="853" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 
-<p>Every time you talk to <a href="" title="http://twitter.com/communispaceceo">Diane</a> about her company <a href="" title="http://communispace.com/">Communispace</a>, she speaks with an energy and enthusiasm that’s contagious.  I remember a lunch where Diane shared the eventful story of Communispace and I’ll say that if Diane ever wants to pursue a new career, she is one of the best storytellers I have met!</p>
+<p>Every time you talk to <a href="http://twitter.com/communispaceceo">Diane</a> about her company <a href="http://communispace.com/">Communispace</a>, she speaks with an energy and enthusiasm that’s contagious.  I remember a lunch where Diane shared the eventful story of Communispace and I’ll say that if Diane ever wants to pursue a new career, she is one of the best storytellers I have met!</p>
 
 <p>Even though Diane is CEO of a huge company, on the board of many organizations and an avid Twitter user, she makes time to help entrepreneurs.  So, if you’re looking for advice and guidance on your company or want to get experience working for a great CEO at a great company, get in touch with Diane!</p>
 
 <h3>Diane’s info:</h3>
 
 <ul>
-<li><a href="" title="http://twitter.com/communispaceceo">@communispaceceo</a></li>
-<li><a href="" title="http://www.linkedin.com/pub/diane-hessan/7/845/211">LinkedIn</a></li>
+<li><a href="http://twitter.com/communispaceceo">@communispaceceo</a></li>
+<li><a href="http://www.linkedin.com/pub/diane-hessan/7/845/211">LinkedIn</a></li>
 </ul>
 
 ]]></content>
@@ -79,16 +82,16 @@
     <content type="html"><![CDATA[<object width="853" height="480"><param name="movie" value="http://www.youtube.com/v/Z2pM4XR_tlM?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Z2pM4XR_tlM?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="853" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 
-<p>There are few people who have as much energy and passion for what they do as <a href="" title="http://twitter.com/markitecht">Christopher</a>.  Currently, he’s the Director of Product Management at Hubspot after <a href="" title="http://hubspot.com/">Hubspot</a> acquired the company he used to work for, Performable.</p>
+<p>There are few people who have as much energy and passion for what they do as <a href="http://twitter.com/markitecht">Christopher</a>.  Currently, he’s the Director of Product Management at Hubspot after <a href="http://hubspot.com/">Hubspot</a> acquired the company he used to work for, Performable.</p>
 
-<p>His contagious excitement for the products he builds and markets, makes him nearly as good a salesman of Hubspot as their other great salespeople like <a href="" title="http://twitter.com/ryanrneu">Ryan Neu</a>.  So, if you’re looking for help fleshing out your product and getting it out there in front of your target audience, get in touch with Christopher or attend out one of his classes at <a href="" title="http://intelligent.ly/">Intelligent.ly</a>.</p>
+<p>His contagious excitement for the products he builds and markets, makes him nearly as good a salesman of Hubspot as their other great salespeople like <a href="http://twitter.com/ryanrneu">Ryan Neu</a>.  So, if you’re looking for help fleshing out your product and getting it out there in front of your target audience, get in touch with Christopher or attend out one of his classes at <a href="http://intelligent.ly/">Intelligent.ly</a>.</p>
 
 <h3>Christopher’s info</h3>
 
 <ul>
-<li><a href="" title="https://twitter.com/#!/markitecht">@markitecht</a></li>
-<li><a href="" title="http://markitecht.com/">Blog</a></li>
-<li><a href="" title="http://www.linkedin.com/in/markitecht">LinkedIn</a></li>
+<li><a href="https://twitter.com/#!/markitecht">@markitecht</a></li>
+<li><a href="http://markitecht.com/">Blog</a></li>
+<li><a href="http://www.linkedin.com/in/markitecht">LinkedIn</a></li>
 </ul>
 
 ]]></content>
@@ -102,16 +105,16 @@
     <content type="html"><![CDATA[<object width="853" height="480"><param name="movie" value="http://www.youtube.com/v/U3RGncOaC20?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/U3RGncOaC20?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="853" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 
-<p>I was fortunate enough to meet <a href="" title="http://twitter.com/karlbuttner">Karl</a> a few years ago, right after he had sold his company <a href="" title="http://www.crunchbase.com/company/170-systems">170 Systems</a>.  He was looking for the next thing to do and told me that he wanted to get more involved with mentoring startups, especially those founded by college students and twenty somethings.  I wasn’t sure if Karl was just paying me lip service but sure enough, a few months later, Karl was named the <a href="" title="http://masschallenge.org/masschallenge_team">Chief Mentorship Officer</a> at <a href="" title="http://masschallenge.org/">MassChallenge</a>.</p>
+<p>I was fortunate enough to meet <a href="http://twitter.com/karlbuttner">Karl</a> a few years ago, right after he had sold his company <a href="http://www.crunchbase.com/company/170-systems">170 Systems</a>.  He was looking for the next thing to do and told me that he wanted to get more involved with mentoring startups, especially those founded by college students and twenty somethings.  I wasn’t sure if Karl was just paying me lip service but sure enough, a few months later, Karl was named the <a href="http://masschallenge.org/masschallenge_team">Chief Mentorship Officer</a> at <a href="http://masschallenge.org/">MassChallenge</a>.</p>
 
 <p>Since meeting Karl, he has played a huge role in making sure hundreds of companies in and around Boston have the right folks mentoring them.  If you’re looking to learn more about MassChallenge or just want to chat with someone about your startup, make sure you get in touch with Karl!</p>
 
 <h3>Karl’s info:</h3>
 
 <ul>
-<li><a href="" title="http://twitter.com/karlbuttner">@karlbüttner</a></li>
-<li><a href="" title="http://www.linkedin.com/in/karlbuttner">LinkedIn</a></li>
-<li><a href="" title="http://masschallenge.org/">MassChallenge</a></li>
+<li><a href="http://twitter.com/karlbuttner">@karlbüttner</a></li>
+<li><a href="http://www.linkedin.com/in/karlbuttner">LinkedIn</a></li>
+<li><a href="http://masschallenge.org/">MassChallenge</a></li>
 </ul>
 
 ]]></content>
@@ -127,15 +130,15 @@
 
 <p>There aren’t many people in Boston who are as open as <a href="" title="http://twitter.com/rseanlindsay">Sean</a> when it comes to helping entrepreneurs.  Sean works with entrepreneurs by offering technical guidance, making introductions and even playing full time, startup advisor.</p>
 
-<p>While most of us would consider this to be a full time job, Sean is also the co-founder and CTO of the gaming distribution company <a href="" title="http://viximo.com/">Viximo</a>, heads up <a href="" title="http://foundermentors.com/?source=seanlindsay.com">Founder Mentors</a>, an organization that helps foster mentorship by pairing experienced entrepreneurs with new ones, and is an avid blogger at <a href="" title="http://startuplessons.com/">Startup Lessons</a>.  If you’re looking for help or guidance on your startup, Sean is the guy to talk to!</p>
+<p>While most of us would consider this to be a full time job, Sean is also the co-founder and CTO of the gaming distribution company <a href="http://viximo.com/">Viximo</a>, heads up <a href="http://foundermentors.com/?source=seanlindsay.com">Founder Mentors</a>, an organization that helps foster mentorship by pairing experienced entrepreneurs with new ones, and is an avid blogger at <a href="http://startuplessons.com/">Startup Lessons</a>.  If you’re looking for help or guidance on your startup, Sean is the guy to talk to!</p>
 
 <h3>Sean’s contact info:</h3>
 
 <ul>
-<li><a href="" title="http://twitter.com/rseanlindsay">@rseanlindsay</a></li>
-<li><a href="" title="http://seanlindsay.com/">Website</a></li>
-<li><a href="" title="http://www.linkedin.com/in/seanlindsay">LinkedIn</a></li>
-<li><a href="" title="mailto:seanlindsay@gmail.com">Email</a></li>
+<li><a href="http://twitter.com/rseanlindsay">@rseanlindsay</a></li>
+<li><a href="http://seanlindsay.com/">Website</a></li>
+<li><a href="http://www.linkedin.com/in/seanlindsay">LinkedIn</a></li>
+<li><a href="mailto:seanlindsay@gmail.com">Email</a></li>
 </ul>
 
 ]]></content>
@@ -149,7 +152,7 @@
     <content type="html"><![CDATA[<iframe width="853" height="480" src="http://www.youtube.com/embed/HXxbnykAnNA" frameborder="0" allowfullscreen></iframe>
 
 
-<p>I’ve only met a handful of service providers in Boston that are as helpful and engaged in the startup community as <a href="" title="https://twitter.com/#!/dgallred">Dan Allred</a> and <a href="" title="https://twitter.com/#!/tuan617">Tuan Pham</a> of <a href="" title="http://www.svb.com/">Silicon Valley Bank</a>.  From helping out at Dogptach and TechStars to brokering connections for entrepreneurs to hosting dinners at Boston’s best restaurant <a href="" title="http://www.yelp.com/biz/new-king-fung-garden-boston">King Fung Garden</a> (order the Peking Duck), Dan and Tuan genuinely love to help startups succeed.</p>
+<p>I’ve only met a handful of service providers in Boston that are as helpful and engaged in the startup community as <a href="https://twitter.com/#!/dgallred">Dan Allred</a> and <a href="https://twitter.com/#!/tuan617">Tuan Pham</a> of <a href="http://www.svb.com/">Silicon Valley Bank</a>.  From helping out at Dogptach and TechStars to brokering connections for entrepreneurs to hosting dinners at Boston’s best restaurant <a href="http://www.yelp.com/biz/new-king-fung-garden-boston">King Fung Garden</a> (order the Peking Duck), Dan and Tuan genuinely love to help startups succeed.</p>
 
 <p>I remember meeting Dan when we were just starting DartBoston. He was one of the first people to generously open his contact book and make introductions to people we were looking to connect with. We wouldn’t have been able to find success without him!</p>
 
@@ -158,9 +161,9 @@
 <h3>Dan’s contact info:</h3>
 
 <ul>
-<li><a href="" title="https://twitter.com/#!/dgallred">@dgallred</a></li>
-<li><a href="" title="http://danallred.tumblr.com/">Tumblr</a></li>
-<li><a href="" title="mailto:dallred@svb.com">Email</a></li>
+<li><a href="https://twitter.com/#!/dgallred">@dgallred</a></li>
+<li><a href="http://danallred.tumblr.com/">Tumblr</a></li>
+<li><a href="mailto:dallred@svb.com">Email</a></li>
 </ul>
 
 ]]></content>
@@ -174,7 +177,7 @@
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/36881829?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
-<p><a href="" title="http://twitter.com/ktrae">Katie Rae</a> is a force to be reckoned with in the Boston scene.  She is currently the managing director of <a href="" title="http://www.techstars.com/program/locations/boston/">TechStars Boston</a> and is also a seed stage investor and mentor through <a href="" title="http://project11.com/">Project 11</a> (with <a href="" title="http://therubyriot.com/">#RubyRiot</a> Godfather, <a href="" title="https://twitter.com/#!/reedsturtevant">Reed Sturtevant</a>).</p>
+<p><a href="http://twitter.com/ktrae">Katie Rae</a> is a force to be reckoned with in the Boston scene.  She is currently the managing director of <a href="http://www.techstars.com/program/locations/boston/">TechStars Boston</a> and is also a seed stage investor and mentor through <a href="http://project11.com/">Project 11</a> (with <a href="http://therubyriot.com/">#RubyRiot</a> Godfather, <a href="https://twitter.com/#!/reedsturtevant">Reed Sturtevant</a>).</p>
 
 <p>Katie is one of the most experienced product people in town, having headed up product at Microsoft Startup Labs, Eons, Lycos and many other great companies.  While she is one of the busiest people I’ve ever met, she is also one of the most helpful and giving of her time.  But what makes Katie so special is her NY Metro North commuter rail conductor’s accent.  It’s pretty incredible!</p>
 
@@ -183,9 +186,9 @@
 <h3>Katie’s contact info:</h3>
 
 <ul>
-<li><a href="" title="http://twitter.com/ktrae">@ktrae</a></li>
-<li><a href="" title="http://www.linkedin.com/in/katierae">LinkedIn</a></li>
-<li><a href="" title="http://www.techstars.com/program/mentors/krae/">TechStars</a></li>
+<li><a href="http://twitter.com/ktrae">@ktrae</a></li>
+<li><a href="http://www.linkedin.com/in/katierae">LinkedIn</a></li>
+<li><a href="http://www.techstars.com/program/mentors/krae/">TechStars</a></li>
 </ul>
 
 ]]></content>
@@ -377,7 +380,7 @@ get a great angel investor involved with your project.</p>
 
 <ul>
 <li><a href="http://twitter.com/schneidermike">@schneidermike</a></li>
-<li><a href="&#109;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#109;&#115;&#x63;&#x68;&#x6e;&#101;&#x69;&#x64;&#101;&#x72;&#x40;&#x61;&#x2d;&#103;&#46;&#x63;&#111;&#109;">&#109;&#115;&#99;&#x68;&#x6e;&#x65;&#x69;&#100;&#101;&#114;&#x40;&#97;&#x2d;&#x67;&#46;&#99;&#111;&#x6d;</a></li>
+<li><a href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#109;&#x73;&#99;&#104;&#110;&#101;&#105;&#100;&#x65;&#x72;&#64;&#x61;&#45;&#103;&#46;&#99;&#111;&#x6d;">&#109;&#115;&#99;&#104;&#110;&#x65;&#x69;&#100;&#x65;&#x72;&#64;&#x61;&#x2d;&#103;&#x2e;&#x63;&#111;&#x6d;</a></li>
 <li><a href="http://www.schneidermike.com/">Blog</a></li>
 <li><a href="http://www.amazon.com/Location-Based-Marketing-Dummies-Strout/dp/1118022491/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1295435508&amp;amp;sr=8-1">Location Based Marketing for Dummies</a></li>
 </ul>
