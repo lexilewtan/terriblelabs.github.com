@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#ScotchOClock with Curt Nickisch"
-date: 2012-04-10 21:36
+date: 2012-03-29 21:36
 comments: true
 categories: [scotchoclock]
 author: Cort Johnson
