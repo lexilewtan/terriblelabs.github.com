@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: prototype | Terrible Blog]]></title>
+  <link href="http://terriblelabs.github.com/blog/categories/prototype/atom.xml" rel="self"/>
+  <link href="http://terriblelabs.github.com/"/>
+  <updated>2012-04-10T21:48:29-04:00</updated>
+  <id>http://terriblelabs.github.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[WANTED: Engineer to Build my Product]]></title>
+    <link href="http://terriblelabs.github.com/blog/2012/01/31/wanted-engineer-to-build-my-product/"/>
+    <updated>2012-01-31T15:31:00-05:00</updated>
+    <id>http://terriblelabs.github.com/blog/2012/01/31/wanted-engineer-to-build-my-product</id>
+    <content type="html"><![CDATA[<p>As many fellow non-technical folks know, it's not easy selling an engineer on building a product that's not their own.  To remedy this situation, many people (including myself) have been tempted to take matters into their own hands and learn how to code their own products.  But I think <a href="http://primaryentrepreneur.com/?p=148">Dayna Grayson at North Bridge</a> said it well when she wrote that idea folks folks should focus on being better marketers of their idea as opposed to learning how to build it on their own.  With that in mind, here are some observations I've made while working with the <a href="http://terriblelabs.com">Terrible Labs engineering team</a> on how to best present and sell your idea to a technical person.</p>
+
+<p>The biggest mistake one can make when recruiting an engineer is to go into a meeting unprepared.  Being prepared doesn't mean that you've honed your product pitch or can explain your product via a lengthy email or over a cup of coffee.  To be prepared means that you've mocked-up your product, wrote out user stories and properly scoped out the functionality of its first few iterations.</p>
+
+<p>If you've yet to do any of this, here are some recommendations to get started.</p>
+
+<p>One of the hardest exercises is to take the idea that has been dancing around in your head and put it on paper.  The easiest way to apply your idea to paper is to create mockups of your product.  A mockup is a simple design of how your product functions, page by page for each of its user roles.  When creating your mockups make sure to create every page, from what a particular page looks like when a user is logged in to what that same page looks like when a user isn't logged in.  You don't want to leave any of the product functionality to the imagination of the engineer.</p>
+
+<p>There are plenty of great tools to help you mockup your product.  I'm a big fan of <a href="http://www.balsamiq.com/">Balsamiq</a> and have used it for quite a long time but there are other products out there like <a href="http://www.axure.com/">Axure</a> and <a href="https://gomockingbird.com/">Mockingbird</a>, which several of our clients use and work just as well.</p>
+
+<p>After you feel like you've sufficiently completed your mockups, it's now time to explain in simple, business terminology, the functionality of your product.  This is done through the creation of <a href="http://en.wikipedia.org/wiki/User_stories">user stories</a>.   User stories should be no longer than a couple sentences.  For example, if you're building a product where you need user authentication, you should write a story that would say something like, "As a non-registered user, I want to be able to log-in by authenticating with either an email address or Facebook in order to see member-only content".</p>
+
+<p>When writing your user stories, it can be helpful to use a project management tool like <a href="https://www.pivotaltracker.com/">Pivotal Tracker</a>, <a href="http://unfuddle.com/">Unfuddle</a> or <a href="http://www.assembla.com/">Assembla</a> (based in Boston).  These tools will help you to keep your stories organized and will allow you to easily share them with other project stakeholders.</p>
+
+<p>Finally you should revisit the scope of your project.  While developing your product's functionality in your head, I'm sure you started to think of all the problems your product solves.  While that sounds great in theory, step back a second and ask yourself, "What problem did I face that made me come up with this product idea?".  Based on the problem that you faced, you're initial product should have one, singular function that attempts to solve that problem.  Figure out what that function is and convey that as your minimum viable product (iteration #1).</p>
+
+<p>If you come to a developer having completed all of these exercises, you'll find a very impressed engineer and one that will take you and your idea more seriously.</p>
+]]></content>
+  </entry>
+  
+</feed>

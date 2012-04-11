@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: API | Terrible Blog]]></title>
+  <link href="http://terriblelabs.github.com/blog/categories/api/atom.xml" rel="self"/>
+  <link href="http://terriblelabs.github.com/"/>
+  <updated>2012-04-10T21:48:29-04:00</updated>
+  <id>http://terriblelabs.github.com/</id>
+  <author>
+    <name><![CDATA[Terrible Labs, Inc.]]></name>
+    <email><![CDATA[info@terriblelabs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[APIs and IPAs 9/21 with RunKeeper]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/09/23/10562512485/"/>
+    <updated>2011-09-23T00:00:00-04:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/09/23/10562512485</id>
+    <content type="html"><![CDATA[<p><img align="text-top" src="http://yfrog.com/nuzuooj:tw1" width="334" height="200"/></p>
+
+
+
+
+<p>We had another fun night at <a target="_blank" href="http://twitter.com/gemvara">Gemvara</a> working with the <a target="_blank" href="http://developer.runkeeper.com">RunKeeper HealthGraph API</a>.</p>
+
+
+
+
+<p>As we talked about in the last blog post, we&#8217;re still trying to figure out how best to run these hack-fests.  For the next couple months we&#8217;re going to meet up every other Wednesday night at Gemvara from 6pm to 9pm to continue working with the RunKeeper API.  </p>
+
+
+
+
+<p>On November 16th we&#8217;re going to get together for a final presentation night where we can recap on the apps we&#8217;ve built and demo them to the greater Boston community and to the RunKeeper team.</p>
+
+
+
+
+<p>I know<a target="_blank" href="http://twitter.com/jjacobs22"> Jason Jacobs</a> (CEO of RunKeeper) is willing to leverage the RunKeeper press machine to highlight apps built during APIs and IPAs, so if you&#8217;re interested in getting some exposure for yourself and your app, come out and get involved!</p>
+
+
+
+
+<p>Sign up for the next one on 10/5&#8230;</p>
+
+
+
+
+<p><a target="_blank" href="http://apipa3.eventbrite.com?ref=ebtn"><img alt="Register for API&amp;#39;s and IPA&amp;#39;s: RunKeeper 10/5 in Boston, MA  on Eventbrite" src="http://www.eventbrite.com/registerbutton?eid=2235598736" border="0"/></a></p>
+
+
+
+
+<p>This past Wednesday, we were psyched to have team <a target="_blank" href="http://twitter.com/evertrue">EverTrue</a> out which included <a target="_blank" href="http://twitter.com/brentgrinna">Brent</a>, <a target="_blank" href="http://twitter.com/evertrueeric">Eric</a>, <a target="_blank" href="http://twitter.com/jessebardo">Jesse</a>, <a target="_blank" href="http://twitter.com/andrewburch">Drew</a>, Courtney, <a target="_blank" href="http://twitter.com/andrhamm">Andrew</a> and <a target="_blank" href="http://twitter.com/tonyd256">Anthony</a>.  These guys spent their time building an app that incorporates charitable giving with exercise.  Keep your eye out for their RunKeeper app, I&#8217;ve got a feeling that when they present in November the demo will be very cool!</p>
+
+
+
+
+<p><a target="_blank" href="http://twitter.com/patientslikeme">Patients Like Me</a> was also well represented by <a target="_blank" href="http://twitter.com/semanticart">Jeffrey Chupp</a> and <a target="_blank" href="http://www.patientslikeme.com/members/view/17">Jeff Cole</a>.  Jeffrey continued to work on his app for recording one&#8217;s sleep while Jeff was working on a map overlay that allows Runkeeper users to compare segments of the same route over time.  He&#8217;s currently looking at his morning commute by car, but this easily transfers over to cycling, running and other activities.</p>
+
+
+
+
+<p><a target="_blank" href="http://twitter.com/jaichim">Dave</a> and <a target="_blank" href="http://twitter.com/dolphyfernandes">Dolphy</a> of <a target="_blank" href="http://twitter.com/isobar">Isobar</a> were out for the first time and started working on a Java wrapper for the Health Graph API.  I&#8217;m excited to see this get done as it will really help encourage more Java app development with the RunKeeper API.</p>
+
+
+
+
+<p><a target="_blank" href="http://twitter.com/im_a_muppet">Will Mernagh</a> from <a target="_blank" href="http://twitter.com/iorahealth">Iora Health</a> also made it back out to continue working with <a target="_blank" href="http://twitter.com/joe_lind">Joe Lind</a> on the Ruby wrapper, <a target="_blank" href="http://github.com/terriblelabs">BabyTooth</a>, which is getting very close to completion.</p>
+
+
+
+
+<p><a target="_blank" href="http://twitter.com/ezyz">Yifei Zhang</a> of <a target="_blank" href="http://tapforge.com">TapForge</a> was also out working on front end design for the chartiable giving/challenges app that <a target="_blank" href="http://twitter.com/doctorzaius">Jeremy Weiskotten</a> has been building.  This app is really shaping up and I&#8217;m excited to start using it when it&#8217;s done!</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Video recap of our first APIs and IPAs event]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/09/13/10170542262/"/>
+    <updated>2011-09-13T00:00:00-04:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/09/13/10170542262</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/29002929" width="400" height="300" frameborder="0"></iframe>
+
+
+<p>Video recap of our first APIs and IPAs event. This quarter we&#8217;re building on RunKeeper&#8217;s Health Graph API.  </p>
+
+
+
+
+<p>Thanks to <a target="_blank" href="http://twitter.com/#!/hikerinheels">Arestia Rosenberg</a> for filming and editing this video!</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[APIs and IPAs with RunKeeper Recap]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/09/13/10166687919/"/>
+    <updated>2011-09-13T00:00:00-04:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/09/13/10166687919</id>
+    <content type="html"><![CDATA[<p><img height="240" width="180" align="text-top" src="http://a.yfrog.com/img736/2740/ia7hs.jpg"/></p>
+
+
+
+
+<p>This past weekend we hosted the first APIs and IPAs event with RunKeeper.  Before I get into the recap I just want to thank <a target="_blank" href="http://twitter.com/winterwyman">Winter Wyman</a> and <a target="_blank" href="http://twitter.com/svb_financial">Silicon Valley Bank</a> for sponsoring the day and <a target="_blank" href="http://twitter.com/gemvara">Gemvara</a> for letting us use their beautiful new office space to host the event.  Also, congratulations to Greg Rublev for winning Winter Wyman&#8217;s $200 Amazon gift card!</p>
+
+
+
+
+<p><img height="240" width="180" src="https://playfoursquare.s3.amazonaws.com/pix/WNCKYERZXRB40AVBL2QAV4QK1GWJ1XNSTJW3G3W3ERH4ETPB.jpg" align="middle"/></p>
+
+
+
+
+<p>We had a solid turnout of developers who were interested in learning more about <a target="_blank" href="http://developer.runkeeper.com">RunKeeper&#8217;s Health Graph API</a> and building apps for the RunKeeper community.  There was a large contingent of Ruby developers who banded together to focus on a couple different problems in the RunKeeper ecosystem.</p>
+
+
+
+
+<p><a target="_blank" href="http://twitter.com/joe_lind">Joe Lind</a> and <a target="_blank" href="http://twitter.com/im_a_muppet">Will Mernagh</a> spent a majority of their efforts building RunKeeper&#8217;s Ruby Wrapper, <a target="_blank" href="https://github.com/terriblelabs/BabyTooth">Baby Tooth</a>.  <a target="_blank" href="http://twitter.com/doctorzaius">Jeremy Weiskotten&#8217;s</a> team focused on building an app (still needs a name) that leverages the game layer to help RunKeeper users raise money for charities by completing fitness challenges.  And finally <a target="_blank" href="http://twitter.com/semanticart">Jeffrey Chupp</a> led a team working on an app that uses RunKeeper to track a user&#8217;s sleep.</p>
+
+
+
+
+<p><a target="_blank" href="http://blog.terriblelabs.com/post/10170542262/apiandiparecap1">Check out the video</a> from and Jeffrey, Joe and Jeremy&#8217;s presentations.  Thanks to <a target="_blank" href="http://twitter.com/hikerinheels">Arestia Rosenberg</a> for filming and editing!</p>
+
+
+
+
+<p>We ended up running out of time to put the polish on all of these apps so we&#8217;ve decided to spend the rest of this quarter working with the Health Graph API.  Every other <strong>Wednesday night at Gemvara (starting 9/21)</strong>, we&#8217;ll be getting together from <strong>6pm to 9pm</strong> to finish apps that have already been started and potentially create a few more.</p>
+
+
+
+
+<p><a target="_blank" href="http://apiandipa2.eventbrite.com?ref=ebtn"><img border="0" src="http://www.eventbrite.com/registerbutton?eid=2182889080" alt="Register for API&amp;#39;s and IPA&amp;#39;s: RunKeeper 9/21 in Boston, MA  on Eventbrite"/></a></p>
+
+
+
+
+<p>If you weren&#8217;t able to make it out on Sunday, feel free to sign up and swing by, we&#8217;d love to have you.</p>
+
+
+
+
+<p>Also, as this was our first foray into a hackathon style of event, we&#8217;d love to get the community&#8217;s feedback.  Are you interested in learning more about local startups&#8217; APIs and building apps on them?  If you came to the event, what did you like, what didn&#8217;t you like?  If you didn&#8217;t make it out we&#8217;d love to hear your 2 cents as well!  Please leave us your thoughts in the comments!</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[APIs and IPAs featuring RunKeeper Health Graph API]]></title>
+    <link href="http://terriblelabs.github.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api/"/>
+    <updated>2011-08-17T00:00:00-04:00</updated>
+    <id>http://terriblelabs.github.com/blog/2011/08/17/apis-ipas-featuring-runkeeper-health-graph-api</id>
+    <content type="html"><![CDATA[<p><span id="internal-source-marker_0.9162468081340194">We&#8217;re excited to announce our first <strong>APIs and IPAs</strong> event! Yep, we&#8217;re drinking beers </span><span>and building apps on local startups&#8217; APIs. Teams of entrepreneurs, developers, marketers, and students can come hang out and compete to win $1,000 worth of prizes <strong>thanks to our sponsors </strong></span><strong><a href="http://siliconvalleybank.com/"><span>Silicon Valley Bank</span></a><span> and</span><span> </span><a href="http://www.winterwyman.com/"><span>Winter Wyman</span></a><span>.</span></strong></p>
+
+
+
+
+<p><strong><a target="_blank" href="http://apiandipa1.eventbrite.com/">Sign up for the event here&#8230;</a> (IMPORTANT: You must be on the registration list to get into Gemvara&#8217;s building)</strong></p>
+
+
+
+
+<p><a target="_blank" href="http://twitter.com/#!/winterwyman"><img src="http://www.bestofstaffing.com/2011/_images/logos/winter-wyman.jpg" align="middle" width="150" height="70"/></a>           <a target="_blank" href="http://twitter.com/#!/SVB_Financial"><img src="http://www.businessstreetonline.com/media/20110105152349ENPRNPRN-SILICON-VALLEY-BANK-LOGO-1y-1294241029MR.jpg" align="middle" width="150" height="35"/></a></p>
+
+
+
+
+<p><span>F</span><span>or our first edition we&#8217;ll be developing apps on </span><a href="http://developer.runkeeper.com/healthgraph"><span>RunKeeper&#8217;s Health Graph API</span></a><span>. </span><span>On Sunday September 11, at 10:30 am, head over to </span><a href="http://maps.google.com/maps?q=one+financial+center+boston&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x89e370820434f703:0xe659981e46d593d3,1+Financial+Center,+Boston,+MA+02111&amp;gl=us&amp;ei=CndBTsymOurd0QHd9siGCg&amp;sa=X&amp;oi=geocode_result&amp;ct=image&amp;resnum=3&amp;ved=0CCoQ8gEwAg"><span>Gemvara HQ</span></a><span> for a day of coding, eating, drinking, winning money and building cool apps for</span><span> </span><a href="http://gigaom.com/2011/06/07/runkeeper-builds-a-fitness-network-with-health-graph-api/"><span>RunKeeper&#8217;s community of over 6 million users</span></a><span>.</span><span> </span></p>
+
+
+
+
+<p><strong><a target="_blank" href="http://apiandipa1.eventbrite.com/">Sign up for the event here&#8230;</a></strong><br/><br/></p>
+
+
+
+
+<p><span>If you have an app idea or suggestion that you think would be a great fit, leave it in the comments section of this post. Our friends at RunKeeper are going to be checking in on ideas to help guide them in the right direction. Our goal here is to create apps that will be adopted by RunKeeper&#8217;s community.</span></p>
+
+
+
+
+<p><span> </span><a target="_blank" href="http://developer.runkeeper.com"><img align="middle" src="http://blog.runkeeper.com/wp-content/uploads/2011/06/Health-Graph2.jpg" width="450" height="278"/></a></p>
+
+
+
+
+<p><strong>Important links<br/></strong></p>
+
+
+
+
+<ul><li><strong><span><a href="http://developer.runkeeper.com/healthgraph/introducing-the-health-graph">Health Graph Developer Docs</a></span></strong></li>
+
+<strong>
+
+<li><span><a href="http://runkeeper.com/partner"><span>RunKeeper Partner Portal Sign Up</span></a><span> </span></span></li>
+
+<li><span><a href="http://runkeeper.com/apps"><span>RunKeeper App Directory</span></a></span></li>
+
+<li><span><a href="http://developer.runkeeper.com/healthgraph/app-ideas">Health Graph App Ideas</a></span></li>
+
+</strong> 
+
+</ul>
+
+
+<p><strong>Schedule</strong></p>
+
+
+
+
+<p><span>10:30 - 11:00 Arrive, Breakfast, Hang Out, Announcements</span><br/><span>11:00 - 12:00 Pitches of app ideas; Choose apps to build; Join teams</span><br/><span>12:00 - 15:00 Build</span><br/><span>15:00 - 16:00 Lunch; Code Review</span><br/><span>16:00 - 18:00 Build</span><br/><span>18:00 - 19:00 App presentations; Judging; Winners named!</span><br/><span>19:00 -&#160;????? Bar for some drinks and socializing</span><br/><span> </span><br/><span><a target="_blank" href="mailto:info@terriblelabs.com">Email us</a></span><span> or </span><a href="http://twitter.com/terriblelabs"><span>tweet at</span></a><span> us with any questions!</span></p>
+
+]]></content>
+  </entry>
+  
+</feed>
